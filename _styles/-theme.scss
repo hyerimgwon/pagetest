@@ -73,25 +73,3 @@ button[aria-label*="dark" i],
 button[title*="dark" i] {
   display: none !important;
 }
-
-// ---- 헤더 로고 크기 ----
-header img {
-  width: 500px;
-  max-width: 60vw;
-  height: auto;
-}
-
-// ---- 헤더 제목/부제 크기 ----
-header .title {
-  font-size: clamp(2rem, 5vw, 3.4rem);
-  font-weight: 700;
-}
-
-header .subtitle {
-  font-size: clamp(1rem, 2.5vw, 2rem);
-}
-
-main h1 {
-  font-size: clamp(2rem, 6vw, 4rem);
-  font-weight: 800;
-}
