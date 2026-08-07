@@ -32,19 +32,20 @@
   --purple: #6A4C93;
 
   // font families
-  --title: "Barlow", "Pretendard Variable", sans-serif;
-  --heading: "Barlow", "Pretendard Variable", sans-serif;
-  --body: "Barlow", "Pretendard Variable", sans-serif;
+  --title: "Pretendard Variable", Pretendard, -apple-system, sans-serif;
+  --heading: "Pretendard Variable", Pretendard, -apple-system, sans-serif;
+  --body: "Pretendard Variable", Pretendard, -apple-system, sans-serif;
   --code: "Roboto Mono", monospace;
+  
   // font sizes
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
   // font weights
-  --thin: 200;
+  --thin: 300;
   --regular: 400;
   --semi-bold: 500;
-  --bold: 600;
+  --bold: 700;
   // text line spacing
   --spacing: 2;
   --compact: 1.5;
