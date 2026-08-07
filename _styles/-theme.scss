@@ -5,7 +5,7 @@
   --primary: #1982C4;
   --secondary: #8AC926;
   --text: #22201C;
-  --background: #FFCA3A;
+  --background: #ffffff;
   --background-alt: #FFFBF0;
   --light-gray: #E6E2D8;
   --gray: #857F72;
@@ -16,7 +16,7 @@
   --primary: #1982C4;
   --secondary: #8AC926;
   --text: #22201C;
-  --background: #FFCA3A;
+  --background: #ffffff;
   --background-alt: #FFFBF0;
   --light-gray: #E6E2D8;
   --gray: #857F72;
@@ -55,17 +55,15 @@
   --transition: 0.2s ease;
 }
 
-// ---- 헤더/푸터를 이미지 대신 단색으로 ----
-.header,
-.footer {
-  background-image: none !important;
-  background-color: var(--yellow) !important;
+// ---- 헤더/푸터 단색 배경 ----
+header,
+footer {
+  background: #FFCA3A !important;
   color: #22201C !important;
 }
-.header a,
-.footer a,
-.header .title,
-.header .subtitle {
+
+header a,
+footer a {
   color: #22201C !important;
 }
 
