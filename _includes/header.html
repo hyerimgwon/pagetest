@@ -6,6 +6,7 @@
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
+
 <header
   class="background"
   style="--image: url('{{ image | relative_url | uri_escape }}')"
@@ -57,3 +58,4 @@
     {% endfor %}
   </nav>
 </header>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
