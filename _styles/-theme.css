@@ -48,7 +48,7 @@
 
 header,
 footer {
-  background: #FFCA3A !important;
+  background: #ffd35c !important;
   color: #22201C !important;
 }
 
@@ -65,18 +65,18 @@ button[title*=dark i] {
 }
 
 header img {
-  width: 240px;
+  width: 500px;
   max-width: 60vw;
   height: auto;
 }
 
 header .title {
-  font-size: clamp(1.8rem, 5vw, 3.2rem);
-  font-weight: 700;
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 900;
 }
 
 header .subtitle {
-  font-size: clamp(1rem, 2.5vw, 1.4rem);
+  font-size: clamp(1rem, 2.5vw, 2rem);
 }
 
 /*# sourceMappingURL=-theme.css.map */
