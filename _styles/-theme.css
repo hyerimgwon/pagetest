@@ -28,9 +28,9 @@
   --green: #8AC926;
   --blue: #1982C4;
   --purple: #6A4C93;
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Barlow", "Pretendard Variable", sans-serif;
+  --heading: "Barlow", "Pretendard Variable", sans-serif;
+  --body: "Barlow", "Pretendard Variable", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
