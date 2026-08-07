@@ -48,7 +48,7 @@
 
 header,
 footer {
-  background: #ffd35c !important;
+  background: #fcdb6d !important;
   color: #22201C !important;
 }
 
@@ -71,12 +71,17 @@ header img {
 }
 
 header .title {
-  font-size: clamp(2rem, 5vw, 4rem);
-  font-weight: 900;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  font-weight: 700;
 }
 
 header .subtitle {
   font-size: clamp(1rem, 2.5vw, 2rem);
+}
+
+main h1 {
+  font-size: clamp(2rem, 6vw, 4rem);
+  font-weight: 800;
 }
 
 /*# sourceMappingURL=-theme.css.map */
