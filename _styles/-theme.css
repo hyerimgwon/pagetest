@@ -64,4 +64,19 @@ button[title*=dark i] {
   display: none !important;
 }
 
+header img {
+  width: 240px;
+  max-width: 60vw;
+  height: auto;
+}
+
+header .title {
+  font-size: clamp(1.8rem, 5vw, 3.2rem);
+  font-weight: 700;
+}
+
+header .subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.4rem);
+}
+
 /*# sourceMappingURL=-theme.css.map */
