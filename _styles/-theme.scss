@@ -53,3 +53,24 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+
+// ---- 헤더/푸터를 이미지 대신 단색으로 ----
+.header,
+.footer {
+  background-image: none !important;
+  background-color: var(--yellow) !important;
+  color: #22201C !important;
+}
+.header a,
+.footer a,
+.header .title,
+.header .subtitle {
+  color: #22201C !important;
+}
+
+#dark-toggle,
+.dark-toggle,
+button[aria-label*="dark" i],
+button[title*="dark" i] {
+  display: none !important;
+}
