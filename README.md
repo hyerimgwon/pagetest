@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # hyerimgwon's Website
+  # 연구실 홈페이지 테스트용
 
   Visit **[hyerimgwon.github.io/pagetest](https://hyerimgwon.github.io/pagetest)** 🚀
 
