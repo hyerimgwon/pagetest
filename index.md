@@ -1,9 +1,12 @@
 ---
 ---
 
-# hyerimgwon's Website
+# 연세대학교 발달심리연구실에 오신 것을 환영합니다!
 
-An engaging 1-3 sentence description of your lab.
+아기들을 태어나자마자 자신을 둘러싼 새로운 세상에 대해 수없이 많은 것들을 배워 나가기 시작합니다.
+저희 연구실은 아기들이 세상과 언어를 어떻게 이해하고 배우는지를 연구하고 있습니다.
+연구는 인형극 무대나 비디오 시청, 게임 형식으로 이루어져 아이들이 즐겁게 참여할 수 있으며,
+​모든 절차는 부모님의 동의 하에 안전히 진행됩니다. 
 
 {% include section.html %}
 
@@ -11,7 +14,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+저희 연구실은 인지발달, 언어 발달, 심리추론 능력 이해 발달, 도덕성 발달, 그리고 노인기의 인지 및 정서 발달 등 인간 발달의 다양한 측면을 탐구합니다. 특히 최근에는 아동의 호기심과 질문 능력의 발달에 대해 탐구하고 있습니다.
 
 {%
   include button.html
@@ -34,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+현재 진행 중인 연구들과 참여 가능한 연구들 써두면 될듯?
 
 {%
   include button.html
@@ -59,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+발달심리 연구실의 귀염둥이 구성원들을 소개합니다 뿌뿌
 
 {%
   include button.html
