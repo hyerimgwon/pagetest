@@ -61,3 +61,17 @@ button[aria-label*="dark" i],
 button[title*="dark" i] {
   display: none !important;
 }
+
+@font-face {
+  font-family: 'KCC-Ganpan';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-Ganpan.woff2') format('woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+header .title {
+  font-family: 'KCC-Ganpan', 'Pretendard Variable', sans-serif !important;
+  font-size: clamp(2rem, 5vw, 3.4rem) !important;
+  letter-spacing: 0.02em !important;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
