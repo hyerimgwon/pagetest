@@ -46,17 +46,6 @@
   --transition: 0.2s ease;
 }
 
-header,
-footer {
-  background: #fcdb6d !important;
-  color: #22201C !important;
-}
-
-header a,
-footer a {
-  color: #22201C !important;
-}
-
 #dark-toggle,
 .dark-toggle,
 button[aria-label*=dark i],
