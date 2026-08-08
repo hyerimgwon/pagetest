@@ -98,4 +98,10 @@ header .title {
 header .subtitle {
   font-size: clamp(1rem, 3vw, 2rem) !important;
 }
+main h1 {
+  font-family: 'AyoungSYearning2019Handwriting', 'Pretendard Variable', sans-serif !important;
+  font-size: clamp(1.8rem, 5vw, 3.2rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+}
 </style>
