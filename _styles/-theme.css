@@ -70,8 +70,10 @@ header .title {
 }
 
 header img {
-  height: clamp(40px, 7vw, 80px) !important;
   width: auto !important;
+  height: clamp(40px, 7vw, 80px) !important;
+  max-width: none !important;
+  object-fit: contain !important;
 }
 
 /*# sourceMappingURL=-theme.css.map */
