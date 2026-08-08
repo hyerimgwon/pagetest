@@ -55,18 +55,6 @@
   --transition: 0.2s ease;
 }
 
-// ---- 헤더/푸터 단색 배경 ----
-header,
-footer {
-  background: #fcdb6d !important;
-  color: #22201C !important;
-}
-
-header a,
-footer a {
-  color: #22201C !important;
-}
-
 #dark-toggle,
 .dark-toggle,
 button[aria-label*="dark" i],
