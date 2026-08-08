@@ -93,7 +93,7 @@ header img {
   width: auto !important;
 }
 header .title {
-  font-size: clamp(2rem, 5vw, 3.2rem) !important;
+  font-size: clamp(1.5rem, 5vw, 3.2rem) !important;
 }
 header .subtitle {
   font-size: clamp(1rem, 3vw, 2rem) !important;
