@@ -59,6 +59,12 @@ button[title*=dark i] {
   font-weight: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: "AyoungSYearning2019Handwriting";
+  src: url("https://cdn.jsdelivr.net/gh/Project-Noonnu/2607161334@2019/2019/Griun_AhyoungsHandwriteIn2019-Rg.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
 header .title,
 header .subtitle {
   color: #1982C4 !important;
