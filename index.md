@@ -88,13 +88,14 @@
 %}
 
 <style>
+header img {
+  height: clamp(90px, 15vw, 180px) !important;
+  width: auto !important;
+}
 header .title {
   font-size: clamp(2rem, 5vw, 3.4rem) !important;
 }
 header .subtitle {
   font-size: clamp(1rem, 2.2vw, 1.5rem) !important;
-}
-header img {
-  width: clamp(120px, 20vw, 260px) !important;
 }
 </style>
