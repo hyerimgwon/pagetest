@@ -61,9 +61,13 @@ button[title*=dark i] {
 }
 header .title {
   font-family: "KCC-Ganpan", "Pretendard Variable", sans-serif !important;
-  font-size: clamp(2rem, 5vw, 3.4rem) !important;
+  font-size: clamp(1.8rem, 5vw, 3rem) !important;
   letter-spacing: 0.02em !important;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+header .title,
+header .subtitle {
+  color: #1982C4 !important;
 }
 
 /*# sourceMappingURL=-theme.css.map */
