@@ -95,3 +95,15 @@ header img {
 .citation-image {
   display: none !important;
 }
+
+/* 구성원 개별 페이지 — 사진 사각형으로 */
+.portrait,
+.portrait img,
+.portrait > * {
+  border-radius: 12px !important;
+}
+.portrait img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  max-width: 220px;
+}
