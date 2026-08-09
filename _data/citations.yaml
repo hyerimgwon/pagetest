@@ -62,8 +62,9 @@
     \ \uC544\uB3D9\uC758 \uD0C0\uC778\uC758 \uC120\uD638 \uC774\uD574"
   authors:
   - "\uAE40\uC720\uC9C4"
-  - "**\uC1A1\uD604\uC8FC**"
+  - "\uC1A1\uD604\uC8FC"
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0:\uBC1C\uB2EC"
   date: '2007-12-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001088648
   plugin: sources.py
   file: sources.yaml
