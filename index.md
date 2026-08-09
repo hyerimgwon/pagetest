@@ -10,7 +10,7 @@
 연구는 인형극 무대나 비디오 시청, 게임 형식으로 이루어져 아이들이 즐겁게 참여할 수 있으며, <br>
 ​모든 절차는 부모님의 동의 하에 안전히 진행됩니다. <br><br>
 {% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLScduYahK5CUcUga4La3XH4SX-jf716GfPfj_vMu8CYJ8Vwmow/viewform" text="연구 참여 신청" icon="fa-solid fa-child-reaching" %}
-{% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLSeH96phkf4Ma_NytxypYBhLre79aLL6BoccmheVbU4IC0HSQA/viewform" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
+{% include button.html link="https://forms.gle/1x1hiVphYFNDJUcS7" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
 
 </div>
 
