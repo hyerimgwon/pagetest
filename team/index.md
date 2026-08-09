@@ -11,11 +11,12 @@ nav:
 
 ## 교수님 Principal Investigator
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Principal Investigator'" %}
 
 ## Researchers & Graduate Students
 
-{% include list.html data="members" component="portrait" filter="role == 'gradstud'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Postdoctoral Researcher'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Graduate Student'" %}
 
 ## Research Assistants
 
