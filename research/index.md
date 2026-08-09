@@ -14,12 +14,12 @@ nav:
 {% endcapture %}
 
 {% capture col2 %}
-#### 언어발달 Language Development
+#### 언어 발달 Languages
 소리를 이해하고, 말로 표현하는 능력을 점차적으로 획득해 가는 과정을 탐구합니다.
 {% endcapture %}
 
 {% capture col3 %}
-#### 도덕성 발달 Moral Development
+#### 도덕성 발달 Morality
 옳고 그름을 판단하고 행동하는 능력이 자라는 과정을 탐구합니다.
 {% endcapture %}
 
