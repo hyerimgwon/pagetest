@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-연세대학교 발달심리 연구실의 구성원을 소개합니다.
-
 {% include section.html %}
 
 ## 교수님 Principal Investigator
@@ -16,9 +14,10 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 ## Researchers & Graduate Students
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-## Students Research Assistents
+{% include list.html data="members" component="portrait" filter="role == 'gradstud'" %}
+
+## Research Assistants
 
 {% include section.html background="images/background.jpg" dark=true %}
 
