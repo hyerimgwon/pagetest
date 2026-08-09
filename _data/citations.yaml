@@ -68,3 +68,14 @@
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001088648
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.22172/cogbio.2007.19.4.008
+  title: The Influence of Discourse Prominence on the Comprehension of Null-subject
+    Sentences in Korean Adults
+  authors:
+  - ' Hyun-joo Song'
+  - " \uC724\uC815\uC740"
+  publisher: Korean Journal of Cognitive and Biological Psychology
+  date: '2007-12-01'
+  link: https://doi.org/hcd7rv
+  plugin: sources.py
+  file: sources.yaml
