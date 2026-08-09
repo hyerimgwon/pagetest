@@ -14,8 +14,69 @@
   authors:
     - 김유진
     - 송현주
-  publisher: "한국심리학회지:발달"
+  publisher: "한국심리학회지: 발달"
   date: 2007-12-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001088648
 
 - id: doi:10.22172/cogbio.2007.19.4.008
+
+- title: 아동의 행위자 성향 추론 능력의 발달
+  authors:
+    - 윤정은
+    - 송현주
+  publisher: "한국심리학회지: 일반"
+  date: 2007-12-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001207012
+
+- title: 3, 4세 한국 아동의 단어 학습에서 상호배타성과 화용 단서의 역할
+  authors:
+    - 진경선
+    - 김민영
+    - 김유진
+    - 윤정은
+    - 송현주
+  publisher: "한국심리학회지: 발달"
+  date: 2008-02-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001245646
+
+- title: 통계 조사 방법에 대한 인지심리학적 접근: 선택지의 개수와 순서에 따른 응답의 변화
+  authors:
+    - 이경수
+    - 송현주
+    - 손영우
+    - 황명진
+    - 박영실
+  publisher: 통계연구
+  date: 2008-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001318416
+
+- title: "타인의 가리키기 행동 목표 이해의 발달: 7, 9개월 영아 자료"
+  authors:
+    - "김민영"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2008-06-01
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001277560
+
+- title: "아동 특질의 본질에 대한 한국 성인의 믿음"
+  authors:
+    - "최유정"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2008-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001278302
+
+- title: "한국어에서 담화정보가 학령 전 아동의 문장 이해에 미치는 영향"
+  authors:
+    - "송현주"
+    - "최유정"
+    - "김민영"
+  publisher: "한국심리학회지: 발달"
+  date: 2008-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001277562
+
+- id: doi:10.1037/a0013774
+
+- id: doi:10.1016/j.cognition.2008.08.008
+
+- id: doi:10.1016/j.cognition.2008.07.019
