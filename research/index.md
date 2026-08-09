@@ -27,13 +27,7 @@ nav:
 
 {% include section.html %}
 
-## Recent Publications
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## Journal Publications & Conference Presentations
+## Publications & Conference Presentations
 
 {% include search-box.html %}
 
