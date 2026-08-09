@@ -98,13 +98,13 @@ header img {
 
 /* ===== 구성원 개별 페이지 ===== */
 
-/* 사진 — 가운데 정렬, 사각형, 크게 */
 .float,
 .float .portrait {
   float: none !important;
   width: 100% !important;
   max-width: 320px !important;
-  margin: 0 auto 1.5rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   text-align: center;
 }
 
@@ -115,6 +115,19 @@ header img {
   aspect-ratio: 1;
   object-fit: cover;
   border-radius: 12px !important;
+}
+
+/* 사진 아래 빈 공간 없애기 */
+.float > div {
+  margin: 0.75rem auto 0 !important;
+  padding: 0 !important;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.float p,
+.float br {
+  margin: 0 !important;
 }
 
 /* 이름 크게 */
