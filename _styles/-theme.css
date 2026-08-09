@@ -82,4 +82,8 @@ header img {
   object-fit: contain !important;
 }
 
+.citation-image {
+  display: none !important;
+}
+
 /*# sourceMappingURL=-theme.css.map */
