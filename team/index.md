@@ -7,22 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+연세대학교 발달심리 연구실의 구성원을 소개합니다.
 
 {% include section.html %}
 
+## 교수님 Principal Investigator
+
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+
+## Researchers & Graduate Students
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+## Students Research Assistents
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+연구실에서는 발달심리 연구에 직접 참여하는 경험을 쌓고 싶은, 성실하고 의욕 있는 학부생 연구 조교(Research Assistant)를 매 학기(1, 2학기 / 여름방학, 겨울방학) 모집하고 있습니다. 희망하는 학생들은 아래 링크를 통해 지원해주세요.
+{% include button.html link="https://forms.gle/1x1hiVphYFNDJUcS7" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
 
 {% include section.html %}
+
+## Lab pictures
 
 {% capture content %}
 
