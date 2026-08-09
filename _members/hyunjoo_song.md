@@ -3,12 +3,14 @@ name: 송현주 (Prof. Song, Hyun-joo)
 image: images/pi.png
 role: Principal Investigator
 affiliation: Yonsei University
-call: +82 02-2123-2449
-email: hsong@yonsei.ac.kr
-office: 위당관 609호
 links:
   orcid: 0000-0002-8161-2601
+  email: hsong@yonsei.ac.kr
+  call: +82 02-2123-2449
+  office: 위당관 609호
 ---
+
+{% include section.html%}
 
 #### 학력 
 1996 ❘ 서울대학교 심리학과 학사 <br>
