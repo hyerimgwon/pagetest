@@ -40,3 +40,17 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+<style>
+.cols > * {
+  padding-top: 1rem;
+  border-top: 4px solid #E6E2D8;
+}
+.cols > *:nth-child(1) { border-top-color: #FFCA3A; }
+.cols > *:nth-child(2) { border-top-color: #8AC926; }
+.cols > *:nth-child(3) { border-top-color: #6A4C93; }
+
+.cols h4 {
+  min-height: 3.2em;
+}
+</style>
