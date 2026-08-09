@@ -105,4 +105,9 @@ main h1 {
   font-weight: 400 !important;
   line-height: 1.4 !important;
 }
+header {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+  min-height: 0 !important;
+}
 </style>
