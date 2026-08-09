@@ -51,6 +51,7 @@ nav:
 .cols > *:nth-child(3) { border-top-color: #6A4C93; }
 
 .cols h4 {
-  min-height: 3.2em;
+  min-height: 0;
+  margin-bottom: 0.6rem;
 }
 </style>
