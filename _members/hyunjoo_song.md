@@ -6,12 +6,14 @@ affiliation: Yonsei University
 links:
   orcid: 0000-0002-8161-2601
   email: hsong@yonsei.ac.kr
-  call: +82 02-2123-2449
-  office: 위당관 609호
+aliases:
+  - 송현주
+  - Hyun-Joo Song
+  - Hyun-joo Song
+  - H SONG
 ---
 
-{% include section.html%}
-
+Call: +82 02-2123-2449 | Office: 위당관 609호
 #### 학력 
 1996 ❘ 서울대학교 심리학과 학사 <br>
 1998 ❘ 서울대학교 심리학과 석사 <br>
