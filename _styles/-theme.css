@@ -87,35 +87,29 @@ header img {
   display: none !important;
 }
 
-/* ===== 구성원 개별 페이지 전용 ===== */
+/* ===== 구성원 개별 페이지 ===== */
 /* 사진 — 가운데 정렬, 사각형, 크게 */
-.float {
+.float,
+.float .portrait {
   float: none !important;
-  width: auto !important;
-  max-width: 320px;
+  width: 100% !important;
+  max-width: 320px !important;
   margin: 0 auto 1.5rem !important;
   text-align: center;
 }
 
-.float .portrait,
 .float .portrait img,
 .float .portrait > * {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1;
+  object-fit: cover;
   border-radius: 12px !important;
 }
 
-.float .portrait img {
-  width: 100%;
-  aspect-ratio: 1;
-  object-fit: cover;
-}
-
 /* 이름 크게 */
-main:has(.float) h1 {
-  font-size: 2.4rem;
-}
-
-body {
-  background: pink !important;
+body:has(.float) h1 {
+  font-size: 2.4rem !important;
 }
 
 /*# sourceMappingURL=-theme.css.map */
