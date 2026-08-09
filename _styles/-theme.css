@@ -82,4 +82,9 @@ header img {
   object-fit: contain !important;
 }
 
+footer .uni-logo {
+  height: 40px;
+  width: auto;
+}
+
 /*# sourceMappingURL=-theme.css.map */
