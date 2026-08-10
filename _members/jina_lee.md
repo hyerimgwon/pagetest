@@ -9,6 +9,7 @@ aliases:
   - 이지나
   - Jina Lee
   - J Lee
+order: 4
 ---
 
 #### Research Interest
