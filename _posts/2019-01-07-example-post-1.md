@@ -1,10 +1,8 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: 테스트 페이지라고 했다
+author: Admin
 tags:
-  - biology
-  - medicine
-  - big data
+  - etc.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+왜 안 되냐고 물었다..
