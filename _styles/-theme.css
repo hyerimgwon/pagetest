@@ -88,18 +88,22 @@ header img {
 }
 
 /* ===== 구성원 개별 페이지 ===== */
-.float,
-.float .portrait {
+.float {
   float: none !important;
   width: 100% !important;
   max-width: 320px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  text-align: center;
+  margin: 0 auto 1.5rem !important;
 }
 
-.float .portrait img,
-.float .portrait > * {
+.float .portrait-wrapper,
+.float .portrait {
+  width: 100% !important;
+  max-width: 320px !important;
+  margin: 0 auto !important;
+}
+
+/* 사진만 정사각형으로 */
+.float .portrait-image {
   width: 100% !important;
   height: auto !important;
   aspect-ratio: 1;
@@ -107,23 +111,16 @@ header img {
   border-radius: 12px !important;
 }
 
-/* 사진 아래 빈 공간 없애기 */
-.float > div {
-  margin: 0.75rem auto 0 !important;
-  padding: 0 !important;
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-}
-
-.float p,
-.float br {
-  margin: 0 !important;
-}
-
 /* 이름 크게 */
-body:has(.float) h1 {
-  font-size: 2.4rem !important;
+.float .portrait-name {
+  font-size: 1.3rem !important;
+  font-weight: 600;
+  margin-top: 0.7rem !important;
+}
+
+.float .portrait-affiliation {
+  font-size: 0.95rem !important;
+  margin-top: 0.2rem !important;
 }
 
 /*# sourceMappingURL=-theme.css.map */
