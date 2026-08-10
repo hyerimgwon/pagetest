@@ -9,6 +9,7 @@ aliases:
   - 이현녕
   - Hyunnyeong Lee
   - H Lee
+order: 3
 ---
 
 #### Research Interest
