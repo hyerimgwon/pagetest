@@ -1,6 +1,6 @@
 ---
 name: 여주현 (Juhyeon Yeo)
-image: images/juhyeonyeo.jpg
+image: images/juhyeonyeo.jpeg
 role: PhD Student
 affiliation: Yonsei University
 links:
