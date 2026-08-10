@@ -69,12 +69,11 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22172/cogbio.2007.19.4.008
-  title: The Influence of Discourse Prominence on the Comprehension of Null-subject
-    Sentences in Korean Adults
-  authors:
-  - ' Hyun-joo Song'
-  - " \uC724\uC815\uC740"
-  publisher: Korean Journal of Cognitive and Biological Psychology
+  title: "\uC0DD\uB7B5\uB41C \uC8FC\uC5B4\uAC00 \uC788\uB294 \uBB38\uC7A5 \uCC98\uB9AC\
+    \uC5D0 \uB2F4\uD654\uD2B9\uCD9C\uC131\uC774 \uBBF8\uCE58\uB294 \uC601\uD5A5"
+  authors: []
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uC778\uC9C0 \uBC0F \uC0DD\
+    \uBB3C"
   date: '2007-12-01'
   link: https://doi.org/hcd7rv
   plugin: sources.py
