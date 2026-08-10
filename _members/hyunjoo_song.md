@@ -1,5 +1,3 @@
-### 교수 · Principal Investigator
-
 ---
 name: 송현주 (Prof. Song, Hyun-joo)
 image: images/pi.png
