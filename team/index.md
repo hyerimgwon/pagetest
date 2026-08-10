@@ -16,6 +16,7 @@ nav:
 ## Researchers & Graduate Students
 
 {% include list.html data="members" component="portrait" filter="role == 'Postdoctoral Researcher'" %}
+{% include list.html data="members" component="portrait" filter="role == 'PhD Student'" %}
 {% include list.html data="members" component="portrait" filter="role == 'Graduate Student'" %}
 
 ## Research Assistants
