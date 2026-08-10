@@ -9,6 +9,7 @@ aliases:
   - 권영서
   - Yeongseo Kwon
   - Y Kwon
+order: 5
 ---
 
 #### Research Interest
