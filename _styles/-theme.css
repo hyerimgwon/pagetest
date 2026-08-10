@@ -193,5 +193,12 @@ header img {
     padding-top: 0.1rem;
   }
 }
+/* 직함 가운데 정렬 */
+.float .member-role {
+  text-align: center !important;
+  color: var(--blue);
+  font-weight: 600;
+  margin: 0.4rem 0 0 !important;
+}
 
 /*# sourceMappingURL=-theme.css.map */
