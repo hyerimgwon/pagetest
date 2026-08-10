@@ -31,7 +31,7 @@ nav:
   link="https://maps.app.goo.gl/eMJcjsj98GXo8vdW6"
 %}
 
-### <i class="fas fa-mail-bulk"></i> Location
+### Location
 서울특별시 서대문구 연세로 50
 연세대학교 유억겸 기념관 217호
 {:.center}
