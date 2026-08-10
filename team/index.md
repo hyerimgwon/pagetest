@@ -17,7 +17,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'Postdoctoral Researcher'" %}
 {% include list.html data="members" component="portrait" filter="role == 'PhD Student'" %}
-{% include list.html data="members" component="portrait" filter="role == 'Graduate Student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Master Student'" %}
 
 ## Research Assistants
 
