@@ -13,7 +13,9 @@ aliases:
   - H SONG
 ---
 
-Call: +82 02-2123-2449 | Office: 위당관 609호
+**Call: +82 02-2123-2449** <br>
+**Office: 위당관 609호**
+
 #### 학력 
 1996 ❘ 서울대학교 심리학과 학사 <br>
 1998 ❘ 서울대학교 심리학과 석사 <br>
@@ -35,3 +37,18 @@ Call: +82 02-2123-2449 | Office: 위당관 609호
 2009 ❘ 우수업적교수상, 연세대학교 <br>
 2019 ❘ Fulbright Visiting Scholar Award, Korean-American Educational Commission <br>
 2021 ❘ 우수강의교수상, 연세대학교
+
+{% include section.html %}
+#### 경력
+
+<ul class="timeline">
+  <li><span class="tl-date">2009 – 2010</span><span class="tl-line"></span><span class="tl-text">한국심리학회 홍보이사</span></li>
+  <li><span class="tl-date">2012 – 2014</span><span class="tl-line"></span><span class="tl-text">한국발달심리학회 학술위원장</span></li>
+  <li><span class="tl-date">2013.2 – 2017.2</span><span class="tl-line"></span><span class="tl-text">연세대학교 생명윤리위원회(IRB) 전문간사</span></li>
+  <li><span class="tl-date">2013.9 – 2015.8</span><span class="tl-line"></span><span class="tl-text">연세대학교 심리학과장</span></li>
+  <li><span class="tl-date">2016.1 – 2018.12</span><span class="tl-line"></span><span class="tl-text">한국발달심리학회 편집위원장</span></li>
+  <li><span class="tl-date">2016.9 – 2018.8</span><span class="tl-line"></span><span class="tl-text">연세대학교 성평등센터장</span></li>
+  <li><span class="tl-date">2021.1 – 2022.12</span><span class="tl-line"></span><span class="tl-text">한국발달심리학회 자격관리위원장</span></li>
+  <li><span class="tl-date">2022.3 –</span><span class="tl-line"></span><span class="tl-text">연세대학교 일반대학원 교학부원장</span></li>
+  <li><span class="tl-date">2023 – 2024</span><span class="tl-line"></span><span class="tl-text">한국발달심리학회장</span></li>
+</ul>
