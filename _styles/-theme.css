@@ -123,4 +123,75 @@ header img {
   margin-top: 0.2rem !important;
 }
 
+/* ===== 경력 타임라인 ===== */
+.timeline {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: max-content 1px 1fr;
+  column-gap: 1.5rem;
+}
+
+.timeline li {
+  display: contents;
+}
+
+.timeline .tl-date {
+  text-align: right;
+  padding: 0.55rem 0;
+  color: var(--dark-gray);
+  white-space: nowrap;
+}
+
+.timeline .tl-line {
+  position: relative;
+  background: var(--light-gray);
+}
+
+.timeline .tl-line::before {
+  content: "";
+  position: absolute;
+  top: 1.05rem;
+  left: 50%;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--blue);
+  transform: translateX(-50%);
+}
+
+.timeline li:first-child .tl-line {
+  background: linear-gradient(var(--background) 1.05rem, var(--light-gray) 1.05rem);
+}
+
+.timeline li:last-child .tl-line {
+  background: linear-gradient(var(--light-gray) 1.05rem, var(--background) 1.05rem);
+}
+
+.timeline .tl-text {
+  padding: 0.55rem 0;
+}
+
+@media (max-width: 600px) {
+  .timeline {
+    grid-template-columns: 1px 1fr;
+    column-gap: 1rem;
+  }
+  .timeline .tl-date {
+    grid-column: 2;
+    text-align: left;
+    padding-bottom: 0;
+    font-size: 0.88rem;
+    color: var(--gray);
+  }
+  .timeline .tl-line {
+    grid-row: span 2;
+  }
+  .timeline .tl-text {
+    grid-column: 2;
+    padding-top: 0.1rem;
+  }
+}
+
 /*# sourceMappingURL=-theme.css.map */
