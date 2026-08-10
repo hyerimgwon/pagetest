@@ -9,6 +9,7 @@ aliases:
   - 김민주
   - Minju Kim
   - M Kim
+rank: 2
 ---
 
 #### Research Interest
