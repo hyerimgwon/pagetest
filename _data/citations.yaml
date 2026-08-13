@@ -24,6 +24,8 @@
   date: '2005-12-01'
   link: https://doi.org/drkjcr
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cognition.2005.10.002
@@ -36,6 +38,8 @@
   publisher: Cognition
   date: '2006-08-01'
   link: https://doi.org/cknzz2
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.lingua.2006.11.011
@@ -47,6 +51,8 @@
   publisher: Lingua
   date: '2007-11-01'
   link: https://doi.org/cjvgvw
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.actpsy.2006.09.008
@@ -58,6 +64,8 @@
   publisher: Acta Psychologica
   date: '2007-01-01'
   link: https://doi.org/bn5s8b
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uC751\uC2DC \uB2E8\uC11C\uB97C \uC774\uC6A9\uD55C \uD559\uB839\uAE30 \uC804\
@@ -68,6 +76,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2007-12-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001088648
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22172/cogbio.2007.19.4.008
@@ -79,6 +89,8 @@
   publisher: Korean Journal of Cognitive and Biological Psychology
   date: '2007-12-01'
   link: https://doi.org/hcd7rv
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uC544\uB3D9\uC758 \uD589\uC704\uC790 \uC131\uD5A5 \uCD94\uB860 \uB2A5\uB825\
@@ -89,6 +101,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uC77C\uBC18"
   date: '2007-12-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001207012
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "3, 4\uC138 \uD55C\uAD6D \uC544\uB3D9\uC758 \uB2E8\uC5B4 \uD559\uC2B5\uC5D0\
@@ -103,6 +117,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2008-02-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001245646
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD1B5\uACC4 \uC870\uC0AC \uBC29\uBC95\uC5D0 \uB300\uD55C \uC778\uC9C0\uC2EC\
@@ -117,6 +133,8 @@
   publisher: "\uD1B5\uACC4\uC5F0\uAD6C"
   date: '2008-06-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001318416
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD0C0\uC778\uC758 \uAC00\uB9AC\uD0A4\uAE30 \uD589\uB3D9 \uBAA9\uD45C \uC774\
@@ -127,6 +145,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2008-06-01'
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001277560
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uC544\uB3D9 \uD2B9\uC9C8\uC758 \uBCF8\uC9C8\uC5D0 \uB300\uD55C \uD55C\uAD6D\
@@ -137,6 +157,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2008-06-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001278302
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD55C\uAD6D\uC5B4\uC5D0\uC11C \uB2F4\uD654\uC815\uBCF4\uAC00 \uD559\uB839\
@@ -149,6 +171,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2008-06-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001277562
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1037/a0013774
@@ -159,6 +183,8 @@
   publisher: Developmental Psychology
   date: '2008-01-01'
   link: https://doi.org/fr5zgm
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cognition.2008.08.008
@@ -172,6 +198,8 @@
   publisher: Cognition
   date: '2008-12-01'
   link: https://doi.org/cm4kj9
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cognition.2008.07.019
@@ -184,6 +212,8 @@
   publisher: Cognition
   date: '2008-12-01'
   link: https://doi.org/cx4zcg
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD55C\uAD6D\uC5B4 \uBB38\uC7A5 \uCC98\uB9AC\uC5D0 \uC788\uC5B4\uC11C \uB2F4\
@@ -194,6 +224,8 @@
   publisher: "\uC5B8\uC5B4\uC0AC\uC2E4\uACFC \uAD00\uC810"
   date: '2009-11-01'
   link: https://kiss.kstudy.com/Detail/Ar?key=2952122
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD615\uD0DC\uB860\uC801 \uB2E8\uC11C\uAC00 \uB9CC 2\uC138 \uC544\uB3D9\uC758\
@@ -204,6 +236,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2009-01-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001395832
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD0C0\uC778\uC758 \uAC10\uC815, \uBC14\uB78C, \uCE5C\uC0AC\uD68C\uC801\
@@ -214,6 +248,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2009-04-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001395828
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD55C\uAD6D \uC544\uB3D9\uB4E4\uC758 \uC870\uC0AC\uB97C \uC774\uC6A9\uD55C\
@@ -224,6 +260,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2010-01-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001427739
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uB9CC 3, 4\uC138 \uC544\uB3D9\uB4E4\uC758 \uAC70\uC9D3\uB9D0 \uC774\uD574\
@@ -234,6 +272,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2010-01-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001477754
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD55C\uAD6D \uC544\uB3D9\uACFC \uC131\uC778\uC758 \uCC98\uC18C\uACA9 \uC870\
@@ -245,6 +285,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2010-01-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001500339
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cogpsych.2010.09.001
@@ -257,6 +299,8 @@
   publisher: Cognitive Psychology
   date: '2010-12-01'
   link: https://doi.org/bsx7jj
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: Infants Expect Others to Help One Another Achieve a Goal
@@ -268,6 +312,8 @@
   - Kim, Y
   publisher: Proceedings of the 32nd Annual Conference of the Cognitive Science Society
   date: '2010-01-01'
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uB9CC 14\uAC1C\uC6D4 \uD55C\uAD6D \uC601\uC544\uB4E4\uC758 \uD569\uB9AC\
@@ -278,6 +324,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2011-06-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001557692
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uC778\uC885 \uC815\uBCF4\uC5D0 \uB530\uB978 \uD55C\uAD6D \uC601\uC544\uC758\
@@ -288,6 +336,8 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2011-09-01'
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001586300
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
 - title: "\uD615\uD0DC\uB860\uC801 \uC815\uBCF4\uB97C \uD65C\uC6A9\uD55C \uB9CC 3\uC138\
@@ -298,5 +348,7 @@
   publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
   date: '2011-11-01'
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001608385
+  tags:
+  - Publication
   plugin: sources.py
   file: sources.yaml
