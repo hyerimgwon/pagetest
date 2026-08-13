@@ -12,7 +12,7 @@
 {% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLScduYahK5CUcUga4La3XH4SX-jf716GfPfj_vMu8CYJ8Vwmow/viewform" text="연구 참여 신청" icon="fa-solid fa-child-reaching" %}
 {% include button.html link="https://forms.gle/1x1hiVphYFNDJUcS7" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
 
-</div
+</div>
 
 {% include section.html %}
 
