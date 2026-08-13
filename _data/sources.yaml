@@ -5,12 +5,20 @@
 
 - id: doi:10.1016/j.cognition.2005.04.004
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.cognition.2005.10.002
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.lingua.2006.11.011
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.actpsy.2006.09.008
+  tags: 
+    - Publication
 
 - title: 응시 단서를 이용한 학령기 전 아동의 타인의 선호 이해
   authors:
@@ -19,8 +27,12 @@
   publisher: "한국심리학회지: 발달"
   date: 2007-12-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001088648
+  tags: 
+    - Publication
 
 - id: doi:10.22172/cogbio.2007.19.4.008
+  tags: 
+    - Publication
 
 - title: 아동의 행위자 성향 추론 능력의 발달
   authors:
@@ -29,6 +41,8 @@
   publisher: "한국심리학회지: 일반"
   date: 2007-12-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001207012
+  tags: 
+    - Publication
 
 - title: "3, 4세 한국 아동의 단어 학습에서 상호배타성과 화용 단서의 역할"
   authors:
@@ -40,6 +54,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2008-02-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001245646
+  tags: 
+    - Publication
 
 - title: "통계 조사 방법에 대한 인지심리학적 접근: 선택지의 개수와 순서에 따른 응답의 변화"
   authors:
@@ -51,6 +67,8 @@
   publisher: 통계연구
   date: 2008-06-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001318416
+  tags: 
+    - Publication
 
 - title: "타인의 가리키기 행동 목표 이해의 발달: 7, 9개월 영아 자료"
   authors:
@@ -59,6 +77,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2008-06-01
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001277560
+  tags: 
+    - Publication
 
 - title: "아동 특질의 본질에 대한 한국 성인의 믿음"
   authors:
@@ -67,6 +87,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2008-06-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001278302
+  tags: 
+    - Publication
 
 - title: "한국어에서 담화정보가 학령 전 아동의 문장 이해에 미치는 영향"
   authors:
@@ -76,12 +98,20 @@
   publisher: "한국심리학회지: 발달"
   date: 2008-06-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001277562
+  tags: 
+    - Publication
 
 - id: doi:10.1037/a0013774
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.cognition.2008.08.008
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.cognition.2008.07.019
+  tags: 
+    - Publication
 
 - title: "한국어 문장 처리에 있어서 담화 정보의 영향"
   authors:
@@ -90,6 +120,8 @@
   publisher: "언어사실과 관점"
   date: 2009-11-01
   link: https://kiss.kstudy.com/Detail/Ar?key=2952122
+  tags: 
+    - Publication
 
 - title: "형태론적 단서가 만 2세 아동의 새로운 동사학습에 미치는 영향"
   authors:
@@ -98,6 +130,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2009-01-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001395832
+  tags: 
+    - Publication
   
 - title: "타인의 감정, 바람, 친사회적 행동에 대한 한국 아동의 이해"
   authors:
@@ -106,6 +140,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2009-04-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001395828
+  tags: 
+    - Publication
 
 - title: "한국 아동들의 조사를 이용한 새로운 명사 학습"
   authors:
@@ -114,6 +150,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2010-01-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001427739
+  tags: 
+    - Publication
 
 - title: "만 3, 4세 아동들의 거짓말 이해와 사실추론 능력"
   authors:
@@ -122,6 +160,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2010-01-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001477754
+  tags: 
+    - Publication
 
 - title: "한국 아동과 성인의 처소격 조사를 활용한 공간 명사의 의미 이해"
   authors:
@@ -130,8 +170,12 @@
   publisher: "한국심리학회지: 발달"
   date: 2010-01-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001500339
+  tags: 
+    - Publication
 
 - id: doi:10.1016/j.cogpsych.2010.09.001
+  tags: 
+    - Publication
 
 - title: "Infants Expect Others to Help One Another Achieve a Goal"
   authors:
@@ -142,6 +186,8 @@
     - "Kim, Y"
   publisher: "Proceedings of the 32nd Annual Conference of the Cognitive Science Society"
   date: 2010-01-01
+  tags: 
+    - Publication
 
 - title: "만 14개월 한국 영아들의 합리적 모방 능력"
   authors:
@@ -150,6 +196,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2011-06-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001557692
+  tags: 
+    - Publication
 
 - title: "인종 정보에 따른 한국 영아의 얼굴 인식 발달"
   authors:
@@ -158,6 +206,8 @@
   publisher: "한국심리학회지: 발달"
   date: 2011-09-01
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001586300
+  tags: 
+    - Publication
 
 - title: "형태론적 정보를 활용한 만 3세 아동의 타인행동 모방능력"
   authors:
@@ -166,3 +216,5 @@
   publisher: "한국심리학회지: 발달"
   date: 2011-11-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001608385
+  tags: 
+    - Publication
