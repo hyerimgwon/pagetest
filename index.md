@@ -5,10 +5,10 @@
 
 <div style="text-align: center;">
   
-아기들은 태어나자마자 자신을 둘러싼 새로운 세상에 대해 수없이 많은 것들을 배워 나가기 시작합니다. <br>
-저희 연구실은 아기들이 세상과 언어를 어떻게 이해하고 배우는지를 연구하고 있습니다. <br>
-연구는 인형극 무대나 비디오 시청, 게임 형식으로 이루어져 아이들이 즐겁게 참여할 수 있으며, <br>
-​모든 절차는 부모님의 동의 하에 안전히 진행됩니다. <br><br>
+#### 아기들은 태어나자마자 자신을 둘러싼 새로운 세상에 대해 수없이 많은 것들을 배워 나가기 시작합니다. <br>
+#### 저희 연구실은 아기들이 세상과 언어를 어떻게 이해하고 배우는지를 연구하고 있습니다. <br>
+#### 연구는 인형극 무대나 비디오 시청, 게임 형식으로 이루어져 아이들이 즐겁게 참여할 수 있으며, <br>
+#### 모든 절차는 부모님의 동의 하에 안전히 진행됩니다. <br><br>
 {% include button.html link="https://docs.google.com/forms/d/e/1FAIpQLScduYahK5CUcUga4La3XH4SX-jf716GfPfj_vMu8CYJ8Vwmow/viewform" text="연구 참여 신청" icon="fa-solid fa-child-reaching" %}
 {% include button.html link="https://forms.gle/1x1hiVphYFNDJUcS7" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
 
