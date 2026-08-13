@@ -58,4 +58,12 @@ nav:
   min-height: 0;
   margin-bottom: 0.6rem;
 }
+
+.cols .figure img {
+  max-width: 180px;
+  margin: 0 auto;
+  box-shadow: none !important;
+  border-radius: 8px;
+}
+  
 </style>
