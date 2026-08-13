@@ -51,8 +51,8 @@ nav:
 {% endcapture %}
 
 {% capture col2 %}
-<!-- 아래 src=" " 안에 구글 맵 복사한 주소를 넣어주세요 -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x357c988eaca1a695%3A0x332c3d939df4c7bb!2z7Jew7IS464yA7ZWZ6rWQIOycoOyWteqyuOq4sOuFkOq0gA!5e0!3m2!1sko!2skr!4v1786615696019!5m2!1sko!2skr" width="100%" height="100%" style="border:0; min-height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x357c988eaca1a695%3A0x332c3d939df4c7bb!2z7Jew7IS464yA7ZWZ6rWQIOycoOyWteqyuOq4sOuFkOq0gA!5e0!3m2!1sko!2skr!4v1786615696019!5m2!1sko!2skr" width="100%" height="100%" style="border:0; aspect-ratio: 4 / 3; border-radius: 3px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+caption="오시는길 지도"
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
