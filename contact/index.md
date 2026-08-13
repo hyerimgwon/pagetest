@@ -29,7 +29,7 @@ nav:
 %}
 {%
   include button.html
-  type="location"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/eMJcjsj98GXo8vdW6"
 %}
