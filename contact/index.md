@@ -40,11 +40,10 @@ nav:
 
 {% include section.html %}
 
-
+{:.center}
 {%
   include figure.html
   image="images/building.jpg"
   caption="유억겸 기념관"
 %}
-
-{% endcapture %}
+{:.center}
