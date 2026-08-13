@@ -9,7 +9,9 @@ nav:
 
 저희 연구실은 연세대학교 문과대학 심리학과에 속해 있습니다. 아이들이 세상을 어떻게 이해해 가는지 그 배움의 과정을 들여다보고 있습니다. 연구실은 연세대학교 유억겸 기념관 217호에 있으며, 아이가 편안하게 머물 수 있도록 꾸며 두었습니다. 또한 아이와 함께 놀아 줄 연구원이 늘 함께합니다.
 
-저희는 연구에 참여해 주시는 아이와 보호자의 안전과 편안함을 가장 우선에 둡니다. 모든 연구는 연세대학교 생명윤리위원회(IRB)의 승인을 받아 진행되며, 아이가 원하지 않으면 언제든 중단할 수 있습니다.<br><br>
+저희는 연구에 참여해 주시는 아이와 보호자의 안전과 편안함을 가장 우선에 둡니다. 모든 연구는 연세대학교 생명윤리위원회(IRB)의 승인을 받아 진행되며, 아이가 원하지 않으면 언제든 중단할 수 있습니다.
+
+연구 참여에 대한 안내가 필요하시거나 기타 궁금하신 점이 있다면, 아래 안내된 전화나 이메일로 언제든지 편하게 연락해 주시기 바랍니다.<br><br>
 
 +) *대학원 진학에 관심 있는 학생은 연구실 메일이 아닌 **교수님 이메일**로 문의해 주세요.* 
 
@@ -40,10 +42,17 @@ nav:
 
 {% include section.html %}
 
-{:.center}
+{% capture col1 %}
 {%
   include figure.html
   image="images/building.jpg"
   caption="유억겸 기념관"
 %}
-{:.center}
+{% endcapture %}
+
+{% capture col2 %}
+<!-- 아래 src=" " 안에 구글 맵 복사한 주소를 넣어주세요 -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x357c988eaca1a695%3A0x332c3d939df4c7bb!2z7Jew7IS464yA7ZWZ6rWQIOycoOyWteqyuOq4sOuFkOq0gA!5e0!3m2!1sko!2skr!4v1786615696019!5m2!1sko!2skr" width="100%" height="100%" style="border:0; min-height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
