@@ -40,7 +40,6 @@ nav:
 
 {% include section.html %}
 
-{% capture col1 %}
 
 {%
   include figure.html
@@ -49,15 +48,3 @@ nav:
 %}
 
 {% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/campusmap.jpg"
-  caption="캠퍼스맵"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
