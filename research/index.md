@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Publications
+  tooltip: Publications & Presentations
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -37,7 +37,7 @@ nav:
 
 {% include search-info.html %}
 
-{% include tags.html tags="publication, Conference Presentation" %}
+{% include tags.html tags="Paper, Conference Presentation" %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
