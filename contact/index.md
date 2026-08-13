@@ -36,7 +36,7 @@ nav:
 
 {% include section.html %}
 
-## Location
+### Location
 {:.center}
 서울특별시 서대문구 연세로 50
 연세대학교 유억겸 기념관 217호
@@ -53,7 +53,7 @@ nav:
 {% capture col2 %}
 <div style="text-align: center; font-style: italic;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x357c988eaca1a695%3A0x332c3d939df4c7bb!2z7Jew7IS464yA7ZWZ6rWQIOycoOyWteqyuOq4sOuFkOq0gA!5e0!3m2!1sko!2skr!4v1786615696019!5m2!1sko!2skr" width="100%" height="100%" style="border:0; min-height: 320px; border-radius: 4px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<span style="display: block; margin-top: 7px">오시는길</span>
+<span style="display: block; margin-top: 5px">오시는길</span>
 </div>
 {% endcapture %}
 
