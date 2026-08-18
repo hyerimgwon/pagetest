@@ -198,11 +198,17 @@ body, p, li, span, a, td {
   font-size: 1.1rem !important;
 }
 
-/* 모바일 화면에서 배경은 냅두고 '본문(main) 글씨' 영역만 넓게 쓰기 */
+/* 모바일 화면에서 배경은 냅두고 글씨 여백만 줄이기 */
 @media (max-width: 768px) {
-  main {
-    padding-left: 10px !important;
-    padding-right: 10px !important;
-    box-sizing: border-box !important;
+  /* main에 들어갔던 설정은 지우고, section과 header 안쪽 여백을 조절합니다 */
+  header, section, footer {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  
+  /* 혹시 템플릿 내부에 글씨를 감싸는 상자가 있다면 그 여백도 함께 줄입니다 */
+  .container, .content, .inner {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 }
