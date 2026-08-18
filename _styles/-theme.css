@@ -201,4 +201,9 @@ header img {
   margin: 0.4rem 0 0 !important;
 }
 
+/* 홈페이지 전체 본문 폰트 크기 강제 키우기 */
+body, p, li, span, a, td {
+  font-size: 1.1rem !important;
+}
+
 /*# sourceMappingURL=-theme.css.map */
