@@ -1,12 +1,12 @@
-- title: Cool Dataset
+- title: 영아는 익숙한 것과 새로운 것 중 무엇을 더 좋아할까요?
   subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  group: 생후 3개월-15개월
+  image: images/poster_mb5.png
+  link: https://www.notion.so/3-15-3760c2dbabb1809db4d4cd1731da588e?source=copy_link
+  description: 영아가 화면에 제시되는 다양한 시각 자극을 바라보는 방식을 통해 익숙한 자극과 새로운 자극에 대한 선호가 어떻게 변화하는지를 살펴보고자 합니다. 이를 통해 영아의 인지 발달 과정, 특히 친숙성 선호에서 새로움 선호로의 전환이 어떻게 나타나는지를 이해하고자 합니다.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - 영아(~만1세)
 
 - title: Cool Package
   subtitle: a subtitle
