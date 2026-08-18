@@ -206,11 +206,12 @@ body, p, li, span, a, td {
   font-size: 1.1rem !important;
 }
 
-/* 모바일 화면에서 양옆 여백 줄이고 꽉 채우기 */
-@media (max-width: 760px) {
-  header, main, footer, section {
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+/* 모바일 화면에서 배경은 냅두고 '본문(main) 글씨' 영역만 넓게 쓰기 */
+@media (max-width: 768px) {
+  main {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    box-sizing: border-box !important;
   }
 }
 
