@@ -202,8 +202,8 @@ body, p, li, span, a, td {
 @media (max-width: 768px) {
   /* main에 들어갔던 설정은 지우고, section과 header 안쪽 여백을 조절합니다 */
   header, section, footer {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
   }
   
   /* 혹시 템플릿 내부에 글씨를 감싸는 상자가 있다면 그 여백도 함께 줄입니다 */
