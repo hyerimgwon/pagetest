@@ -104,7 +104,7 @@ main h1 {
   font-family: 'AyoungSYearning2019Handwriting', 'Pretendard Variable', sans-serif !important;
   font-weight: 400 !important;
   line-height: 1.2 !important;
-  font-size: clamp(1.4rem, 6vw, 2.5rem) !important;
+  font-size: clamp(1.5rem, 6vw, 2.5rem) !important;
 }
 header {
   padding-top: 2rem !important;
