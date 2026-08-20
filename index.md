@@ -2,6 +2,7 @@
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem; line-height: normal;">
+  <img src="{{ '/images/YHDL_logo.png' | relative_url }}" alt="연구실 로고" style="height: 80px; width: auto;">
   <img src="{{ '/images/yonsei_full.png' | relative_url }}" alt="연세대학교 로고" style="height: 80px; width: auto;">
 </div>
 
@@ -100,7 +101,7 @@ header img {
   width: auto !important;
 }
 header .title {
-  font-size: clamp(1.5rem, 5vw, 2.5rem) !important;
+  font-size: clamp(1.6rem, 5vw, 2.2rem) !important;
 }
 header .subtitle {
   font-size: clamp(1rem, 3vw, 1.5rem) !important;
