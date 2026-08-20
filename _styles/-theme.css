@@ -74,7 +74,7 @@ header .subtitle {
 header .title {
   font-family: "KCC-Ganpan", sans-serif !important;
   letter-spacing: 0.02em !important;
-  font-size: clamp(1.2rem, 5vw, 2.2rem) !important;
+  font-size: clamp(1rem, 5vw, 2rem) !important;
 }
 
 header .subtitle {
