@@ -598,3 +598,218 @@
   - Paper
   plugin: sources.py
   file: sources.yaml
+- title: "\uB9CC 10\uAC1C\uC6D4 \uC601\uC544\uB4E4\uC758 \uC5B8\uC5B4\uC801 \uB2E8\
+    \uC11C\uB97C \uD65C\uC6A9\uD55C \uD0C0\uC778\uC758 \uBAA9\uD45C \uD589\uB3D9 \uC774\
+    \uD574"
+  authors:
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2015-06-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001997441
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "5-6\uC138 \uC544\uB3D9\uC758 \uBD84\uBC30 \uACB0\uC815\uC5D0 \uB0B4\uC9D1\
+    \uB2E8 \uC120\uD638\uAC00 \uBBF8\uCE58\uB294 \uC601\uD5A5"
+  authors:
+  - "\uCC28\uBBFC\uC815"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC778\uC9C0\uACFC\uD559"
+  date: '2015-06-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002005655
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD615\uD0DC\uB860\uC801 \uC5B8\uC5B4 \uC815\uBCF4 \uD65C\uC6A9\uC744 \uD1B5\
+    \uD55C \uD0C0\uC778\uD589\uB3D9 \uBAA9\uD45C \uCD94\uB860 \uB2A5\uB825\uC758 \uC601\
+    \uC544\uAE30 \uBC1C\uB2EC"
+  authors:
+  - "\uAE40\uC740\uC601"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2015-06-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001997448
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0135588
+  title: "The Development of Infants\u2019 Sensitivity to Behavioral Intentions when\
+    \ Inferring Others\u2019 Social Preferences"
+  authors:
+  - Young-eun Lee
+  - Jung-eun Ellie Yun
+  - Eun Young Kim
+  - Hyun-joo Song
+  publisher: PLOS ONE
+  date: '2015-09-18'
+  link: https://doi.org/gqsw9r
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD55C\uAD6D\uD615 \uC131\uC778 \uC6B0\uC218\uC601\uC5B4\uD559\uC2B5\uC790\
+    \ \uD559\uC2B5\uC790\uD2B9\uC131\uC5D0 \uAD00\uD55C \uC0AC\uB840\uC5F0\uAD6C"
+  authors:
+  - "\uC774\uD76C\uACBD"
+  - "\uC2E0\uC218\uC815"
+  - "\uD669\uBA85\uD658"
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC774\uD604\uC544"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD604\uB300\uC601\uC5B4\uAD50\uC721"
+  date: '2015-09-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002020326
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD55C\uAD6D\uC778 EFL \uC131\uC778 \uACE0\uAE09 \uD559\uC2B5\uC790\uB4E4\
+    \uC758 \uB2F4\uD654 \uB9E5\uB77D\uC5D0\uC11C\uC758 \uB300\uBA85\uC0AC \uC774\uD574"
+  authors:
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC548\uC758\uC9C4"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC5B8\uC5B4\uACFC\uD559"
+  date: '2015-09-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002021894
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD55C\uAD6D \uC720\uC544\uC758 \uACA9\uC870\uC0AC\uB97C \uD65C\uC6A9\uD55C\
+    \ \uD0C0\uB3D9\uC0AC \uBB38\uC7A5 \uC774\uD574 \uBC1C\uB2EC"
+  authors:
+  - "\uC9C4\uACBD\uC120"
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2015-09-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002028789
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uB9CC 24\uAC1C\uC6D4 \uC601\uC544\uC758 \uB3C4\uC6C0, \uB098\uB214 \uD589\
+    \uB3D9\uC758 \uBC1C\uB2EC"
+  authors:
+  - "\uC9C4\uACBD\uC120"
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC720\uC544\uAD50\uC721\uD559\uD68C"
+  date: '2015-12-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002069613
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uB9CC 5-6\uC138 \uD55C\uAD6D \uC544\uB3D9\uC758 \uC0AC\uD68C\uBE44\uAD50\
+    \uC5D0 \uC601\uD5A5\uC744 \uC8FC\uB294 \uC591\uC721\uC790 \uC694\uC778"
+  authors:
+  - "\uAE40\uC740\uC601"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2016-02-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002089530
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uB2E8\uC77C \uC5B8\uC5B4 \uC0AC\uC6A9 2-3\uC138 \uC544\uB3D9\uC758 \uC678\
+    \uAD6D\uC5B4 \uB2E8\uC5B4\uC5D0 \uB300\uD55C \uC774\uD574"
+  authors:
+  - "\uC774\uD604\uC544"
+  - "\uAE40\uC740\uC601"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC544\uB3D9\uD559\uD68C\uC9C0"
+  date: '2016-12-01'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07084831
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uC870\uAE30 \uC678\uAD6D\uC5B4 \uB178\uCD9C\uC774 \uC601\uC544\uAE30 \uC5B8\
+    \uC5B4\uC758 \uAD00\uC2B5\uC131 \uC774\uD574 \uBC1C\uB2EC\uC5D0 \uBBF8\uCE58\uB294\
+    \ \uC601\uD5A5"
+  authors:
+  - "\uC774\uC724\uBBF8"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2016-09-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002144332
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uC0C1\uD638\uBC30\uD0C0\uC131 \uAC00\uC815\uC758 \uC120\uD0DD\uC801 \uC0AC\
+    \uC6A9 \uB2A5\uB825\uC758 \uBC1C\uB2EC: 2\uC138\uC640 3\uC138 \uC544\uB3D9 \uBE44\
+    \uAD50 \uC5F0\uAD6C"
+  authors:
+  - "\uC774\uD604\uC544"
+  - "\uAE40\uC740\uC601"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2017-02-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002205867
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uB2E8\uCCB4\uCE74\uD1A1\uBC29 \uC5B8\uC5B4\uC131\uD3ED\uB825\uC5D0 \uB300\
+    \uD55C \uD0DC\uB3C4 \uC5F0\uAD6C"
+  authors:
+  - "\uC9C4\uACBD\uC120"
+  - "\uAE40\uC218\uC5F0"
+  - "\uC815\uC720\uACBD"
+  - "\uC1A1\uD604\uC8FC"
+  - "\uC1A1\uBBFC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uC5EC\uC131"
+  date: '2017-06-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002240466
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD0C0\uC778\uC758 \uB2E8\uC5B4\uC640 \uD589\uB3D9 \uBAA9\uD45C\uC758 \uAD00\
+    \uACC4\uC131\uC5D0 \uB300\uD55C 10\uAC1C\uC6D4 \uC601\uC544\uC758 \uC774\uD574\
+    \uC5D0 \uC788\uC5B4\uC11C \uC0AC\uD68C\uC815\uC11C \uB2E8\uC11C\uC758 \uC601\uD5A5"
+  authors:
+  - "\uC774\uC724\uBBF8"
+  - "\uAE40\uBBFC\uC8FC"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC544\uB3D9\uD559\uD68C\uC9C0"
+  date: '2017-06-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002199656
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jecp.2017.05.001
+  title: "You changed your mind! Infants interpret a change in word as signaling a\
+    \ change in an agent\u2019s goals"
+  authors:
+  - Kyong-sun Jin
+  - Hyun-joo Song
+  publisher: Journal of Experimental Child Psychology
+  date: '2017-10-01'
+  link: https://doi.org/hcgfdq
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uB3C4\uC6C0 \uD589\uB3D9\uC774 \uC720\uBC1C\uD558\uB294 \uC815\uC11C\uC5D0\
+    \ \uB300\uD55C \uAD00\uCC30\uC790\uC758 \uC601\uD5A5: \uC131\uC778\uACFC \uB9CC\
+    \ 4-5\uC138 \uC544\uB3D9\uC758 \uC790\uB8CC"
+  authors:
+  - "\uAE40\uD604\uC815"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2017-09-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002261898
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
