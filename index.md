@@ -3,12 +3,11 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem; line-height: normal;">
   <img src="{{ '/images/Lab_logo.png' | relative_url }}" alt="연구실 로고" style="height: 80px; width: auto;">
-  <img src="{{ '/images/yonsei_full.png' | relative_url }}" alt="연세대학교 로고" style="height: 80px; width: auto;">
+  <img src="{{ '/images/yonsei_full.png' | relative_url }}" alt="연세대학교 로고" style="height: 70px; width: auto;">
 </div>
 
 
 # 안녕하세요, 연세대학교 발달심리 연구실입니다! 😊
-
 <div style="text-align: center; line-height: 1.8;">
   
 아기들은 태어나자마자 자신을 둘러싼 새로운 세상에 대해 수없이 많은 것들을 배워 나가기 시작합니다.<br>
