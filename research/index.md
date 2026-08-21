@@ -37,7 +37,7 @@ nav:
 
 {% include search-info.html %}
 
-{% include tags.html tags="Paper, Conference Presentation" %}
+{% include tags.html tags="Paper, Presentation" %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
