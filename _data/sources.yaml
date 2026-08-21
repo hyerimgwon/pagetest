@@ -546,3 +546,53 @@
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002261898
   tags:
     - Paper
+
+- id: doi:10.1016/j.cognition.2018.02.006
+  tags:
+   - paper
+
+- id: doi:10.18823/asiatefl.2018.15.1.9.130
+  tags:
+   - paper
+
+- id: doi:10.1111/bjdp.12246
+  tags:
+    - paper
+
+- title: "The Influence of Foreign Language Experiences on Children's Language Development: A Review and Suggestions for Future Research"
+  authors: 
+    - "이현아"
+    - "송현주"
+  publisher: "언어사실과 관점"
+  date: 2019-01-01
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002445485
+  tags:
+    - Paper
+
+- title: "타인에 대한 주의 유도가 만 4세 아동의 분배 행동에 미치는 영향"
+  authors: 
+    - "박제완"
+    - "한규옥"
+    - "박채린"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2019-02-01
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002446794
+  tags:
+    - Paper
+
+- id: doi:10.35574/KJDP.2019.03.32.1.87
+  tags:
+    - Paper
+
+- id: doi:10.20406/kjcs.2019.5.25.2.137
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2019.06.32.2.65
+  tags:
+    - paper
+    
+- id: doi:10.3389/fpsyg.2019.02508
+  tags:
+    - paper
