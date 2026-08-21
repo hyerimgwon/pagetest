@@ -259,6 +259,7 @@
   publisher: "언어과학"
   date: 2013-02-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001743736
+  tags:
     - Paper
 
 - title: "양보 행동 동기가 감정에 미치는 영향에 대한 한국 성인과 학령 전기 아동의 이해"
@@ -268,6 +269,7 @@
   publisher: "한국심리학회지: 발달"
   date: 2013-02-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001750867
+  tags:
     - Paper
 
 - title: "한국 성인 및 만 4세 아동의 분배 상황 평가 시 비율적 사고 능력"
@@ -277,6 +279,7 @@
   publisher: "한국심리학회지: 발달"
   date: 2013-02-01
   link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001750858
+  tags:
     - Paper
 
 - title: "한국 아동의 문장 구조 정보를 활용한 문장 이해 능력의 발달"
@@ -287,6 +290,7 @@
   publisher: "한국심리학회지: 발달"
   date: 2013-12-01
   link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001826159
+  tags:
     - Paper
 
 - id: doi:10.1080/10489223.2013.828059
@@ -295,4 +299,89 @@
 
 - id: doi:10.1111/cdep.12032
   tags: 
+    - Paper
+
+- id: doi:10.1371/journal.pone.0092387
+  tags:
+    - Paper
+
+- title: "착한 거짓말과 나쁜 참말? 5-6세 아동의 상황에 따른 거짓말과 참말 이해"
+  authors: 
+    - "송미리"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2014-02-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001858626
+  tags:
+    - Paper
+
+- title: "감정 고려가 만 4세 아동의 분배 행동에 미치는 효과"
+  authors: 
+    - "유하나"
+    - "이지현"
+    - "송현주"
+    - "김영훈"
+  publisher: "한국심리학회지: 발달"
+  date: 2014-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001881737
+  tags:
+    - Paper
+
+- title: "거짓말과 참말 이해에 대한 상황적 요인의 영향: 4세 아동의 자료"
+  authors: 
+    - "송미리"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2014-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001881736
+  tags:
+    - Paper
+
+- title: "강화학습과제에서의 어머니의 이타적 성향과 자녀의 공감 간의 관계"
+  authors: 
+    - "김은영"
+    - "설선혜"
+    - "유하나"
+    - "김학진"
+    - "송현주"
+  publisher: "한국심리학회지: 여성"
+  date: 2014-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001895512
+  tags:
+    - Paper
+
+- title: "영아의 도움 행동과 방해 행동의 의도 이해"
+  authors: 
+    - "이영은"
+    - "송현주"
+  publisher: "인지과학"
+  date: 2014-06-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001893829
+  tags:
+    - Paper
+
+- title: "가리키기 행동 이해에 기반을 둔 12개월 영아들의 행동 목표 예측 능력"
+  authors: 
+    - "김은영"
+    - "송현주"
+  publisher: "한국심리학회지: 발달"
+  date: 2014-12-01
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001935309
+  tags:
+    - Paper
+
+- title: "한국인 프랑스어 학습자의 프랑스어 담화 이해와 대명사 해석 연구"
+  authors: 
+    - "안의진"
+    - "송현주"
+    - "김민주"
+    - "임재호"
+  publisher: "인지과학"
+  date: 2014-12-01
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001956389
+  tags:
+    - Paper
+    
+- id: doi:10.1016/j.cogdev.2014.09.003
+  tags:
     - Paper
