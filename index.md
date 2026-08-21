@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem; line-height: normal;">
   <img src="{{ '/images/Lab_logo.png' | relative_url }}" alt="연구실 로고" style="height: 90px; width: auto;">
-  <img src="{{ '/images/yonsei_full.png' | relative_url }}" alt="연세대학교 로고" style="height: 80px; width: auto;">
+  <img src="{{ '/images/yonsei_full.png' | relative_url }}" alt="연세대학교 로고" style="height: 70px; width: auto;">
 </div>
 
 
