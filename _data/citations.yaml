@@ -813,3 +813,129 @@
   - Paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.cognition.2018.02.006
+  title: "Infants\u2019 understanding of the definite/indefinite article in a third-party\
+    \ communicative situation"
+  authors:
+  - You-jung Choi
+  - Hyun-joo Song
+  - Yuyan Luo
+  publisher: Cognition
+  date: '2018-06-01'
+  link: https://doi.org/gddtzv
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18823/asiatefl.2018.15.1.9.130
+  title: 'Why We Do and What We Do : The Experience of Good English Language Learners'
+  authors:
+  - Sue-jeong Shin
+  - Hyun-joo Song
+  - Hyun-kyu Choi
+  - Myung-hwan Hwang
+  - Hyuna Lee
+  - Youn Mi Cathy Lee
+  - Rosa Oh
+  - Hee-Kyung Lee
+  publisher: The Journal of AsiaTEFL
+  date: '2018-03-31'
+  link: https://doi.org/gf8pg6
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/bjdp.12246
+  title: "Negativity bias in infants\u2019 expectations about agents\u2019 dispositions"
+  authors:
+  - Joanna Joo Kyung Chae
+  - "Hyun\u2010joo Song"
+  publisher: British Journal of Developmental Psychology
+  date: '2018-05-01'
+  link: https://doi.org/hcgfgd
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- title: 'The Influence of Foreign Language Experiences on Children''s Language Development:
+    A Review and Suggestions for Future Research'
+  authors:
+  - "\uC774\uD604\uC544"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC5B8\uC5B4\uC0AC\uC2E4\uACFC \uAD00\uC810"
+  date: '2019-01-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002445485
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uD0C0\uC778\uC5D0 \uB300\uD55C \uC8FC\uC758 \uC720\uB3C4\uAC00 \uB9CC 4\uC138\
+    \ \uC544\uB3D9\uC758 \uBD84\uBC30 \uD589\uB3D9\uC5D0 \uBBF8\uCE58\uB294 \uC601\
+    \uD5A5"
+  authors:
+  - "\uBC15\uC81C\uC644"
+  - "\uD55C\uADDC\uC625"
+  - "\uBC15\uCC44\uB9B0"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2019-02-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002446794
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2019.03.32.1.87
+  title: "Children\u2019s moral evaluations of lying for one\u2019s ingroup member"
+  authors:
+  - Jin Kyong-sun
+  - Hwang Jihyun
+  - Song Hyun-joo
+  publisher: The Korean Journal of Developmental Psychology
+  date: '2019-03-15'
+  link: https://doi.org/hcgfgf
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.20406/kjcs.2019.5.25.2.137
+  title: The relationships between autistic trait and socio-moral judgments
+  authors: []
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0 : \uBB38\uD654 \uBC0F \uC0AC\
+    \uD68C\uBB38\uC81C"
+  date: '2019-05-31'
+  link: https://doi.org/hcgfhh
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2019.06.32.2.65
+  title: "Infants\u2019 social evaluations of helping behaviors"
+  authors:
+  - "\uCC44\uB9B0 \uBC15"
+  - "\uD604\uC8FC \uC1A1"
+  publisher: Korean Journal of Developmental Psychology
+  date: '2019-06-30'
+  link: https://doi.org/hcgfhj
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyg.2019.02508
+  title: "Fourteen- to Eighteen-Month-Old Infants Use Explicit Linguistic Information\
+    \ to Update an Agent\u2019s False Belief"
+  authors:
+  - Kyong-Sun Jin
+  - Yoon Kim
+  - Miri Song
+  - Yu-Jin Kim
+  - Hyuna Lee
+  - Yoonha Lee
+  - Minjung Cha
+  - Hyun-Joo Song
+  publisher: Frontiers in Psychology
+  date: '2019-11-20'
+  link: https://doi.org/hcgfhk
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
