@@ -939,3 +939,433 @@
   - paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/bjdp.12331
+  title: Do infants expect others to be helpful?
+  authors:
+  - Wooyeol Lee
+  - Eun Young Kim
+  - "Hyun\u2010joo Song"
+  publisher: British Journal of Developmental Psychology
+  date: '2020-03-25'
+  link: https://doi.org/hcgg78
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/pag0000577
+  title: "Older adults consider others\u2019 intentions less but allocentric outcomes\
+    \ more than young adults during an ultimatum game."
+  authors:
+  - Isu Cho
+  - Hyun-joo Song
+  - Hackjin Kim
+  - Sunhae Sul
+  publisher: Psychology and Aging
+  date: '2020-11-01'
+  link: https://doi.org/hcgg79
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2021.3.34.1.47
+  title: The Influence of Attention to Others' Emotional and Physical Characteristics
+    on Adults' and Children's Resource Distribution Behavior
+  authors:
+  - "\uC81C\uC644 \uBC15"
+  - "\uD604\uC8FC \uC1A1"
+  - "\uBBFC\uC815 \uCC28"
+  publisher: Korean Journal of Developmental Psychology
+  date: '2021-03-15'
+  link: https://doi.org/hcgg8b
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jecp.2021.105235
+  title: Disentangling language status and country-of-origin explanations of the bilingual
+    advantage in preschoolers
+  authors:
+  - Isu Cho
+  - Jewan Park
+  - Hyun-joo Song
+  - J. Bruce Morton
+  publisher: Journal of Experimental Child Psychology
+  date: '2021-12-01'
+  link: https://doi.org/grh8n8
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uBE44\uC77C\uAD00\uC801\uC778 \uD589\uC704\uC790\uC5D0 \uB300\uD55C \uC0AC\
+    \uD68C-\uB3C4\uB355\uC801 \uD3C9\uAC00"
+  authors:
+  - "\uCC28\uC5EC\uBA85"
+  - "\uC1A1\uD604\uC8FC"
+  publisher: "\uC778\uAC04\uBC1C\uB2EC\uC5F0\uAD6C"
+  date: '2021-01-01'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10713148
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.infbeh.2021.101621
+  title: "Six-month-olds\u2019 ability to use linguistic cues when interpreting others\u2019\
+    \ pointing actions"
+  authors:
+  - Isu Cho
+  - Yoonha Lee
+  - Hyun-joo Song
+  publisher: Infant Behavior and Development
+  date: '2021-08-01'
+  link: https://doi.org/hcgg8c
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyg.2022.892382
+  title: Priming Behavioral Control Enhances Sharing in Preschoolers
+  authors:
+  - Chanmi Lee
+  - Hyun-joo Song
+  publisher: Frontiers in Psychology
+  date: '2022-07-08'
+  link: https://doi.org/g52262
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- title: "\uCF54\uB85C\uB09819 \uD32C\uB370\uBBF9\uC5D0\uC11C\uC758 \uC544\uB3D9 \uC801\
+    \uC751: \uBD80\uBAA8\uC758 \uC815\uC11C \uBC0F \uC591\uC721 \uBC29\uC2DD\uC744\
+    \ \uC911\uC2EC\uC73C\uB85C"
+  authors:
+  - "\uC774\uC815\uC724"
+  - "\uC774\uC6B0\uC5F4"
+  - "\uC1A1\uD604\uC8FC"
+  - "\uCC28\uBBFC\uC815"
+  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0: \uBC1C\uB2EC"
+  date: '2022-10-01'
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002876128
+  tags:
+  - Paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/15475441.2023.2165926
+  title: 'Learning Verbs in English and Korean: The Roles of Word Order and Argument
+    Drop'
+  authors:
+  - Huanhuan Shi
+  - Angela Xiaoxue He
+  - Hyun-Joo Song
+  - Kyong-Sun Jin
+  - Sudha Arunachalam
+  publisher: Language Learning and Development
+  date: '2023-01-22'
+  link: https://doi.org/hcgg8d
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2023.3.36.1.69
+  title: Development of Questioning Behaviors in Two to Three-year-old Korean Children
+  authors:
+  - "\uBBFC\uACBD \uC131"
+  - "\uC131\uD658 \uC624"
+  - "\uD604\uC8FC \uC1A1"
+  publisher: Korean Journal of Developmental Psychology
+  date: '2023-03-15'
+  link: https://doi.org/hcgg8f
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2023.12.36.4.121
+  title: "The Mediation Effects of Parenting by Lying on the Relationship between\
+    \ Parenting Stress and Children\u2019s Psychosocial Maladjustment"
+  authors:
+  - "\uC131\uD658 \uC624"
+  - "\uB098\uC5F0 \uC774"
+  - "\uD55C\uC870 \uAE40"
+  - "\uD604\uC8FC \uC1A1"
+  publisher: Korean Journal of Developmental Psychology
+  date: '2023-12-15'
+  link: https://doi.org/hcgg8g
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyg.2023.1100537
+  title: Culture, executive functions, and academic achievement
+  authors:
+  - Isu Cho
+  - Niki Hosseini-Kamkar
+  - Hyun-joo Song
+  - J. Bruce Morton
+  publisher: Frontiers in Psychology
+  date: '2023-05-12'
+  link: https://doi.org/hcgg8h
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0295642
+  title: "Focusing attention on others\u2019 negative emotions reduces the effect\
+    \ of social relationships on children\u2019s distributive behaviors"
+  authors:
+  - Minjung Cha
+  - Hyun-joo Song
+  publisher: PLOS ONE
+  date: '2024-02-07'
+  link: https://doi.org/hcgg8j
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/S0305000922000472
+  title: "Exposure to Foreign Languages through Live Interaction Can Facilitate Children\u2019\
+    s Acceptance of Multiple Labeling Conventions across Languages"
+  authors:
+  - Hyuna LEE
+  - Hyun-joo SONG
+  publisher: Journal of Child Language
+  date: '2022-11-03'
+  link: https://doi.org/hcgg8k
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyg.2024.1289292
+  title: "The influence of observers on children\u2019s conformity in moral judgment\
+    \ behavior"
+  authors:
+  - Yoonha Lee
+  - Hyun-joo Song
+  publisher: Frontiers in Psychology
+  date: '2024-06-13'
+  link: https://doi.org/hcgg8m
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2024.6.37.2.19
+  title: A Review of the Effect of Cognitive Abilities and Interventions on the Development
+    of Questioning Abilities in Children
+  authors:
+  - "\uD61C\uBE48 \uC131"
+  - "\uC11C\uB780 \uAE40"
+  - "\uC720\uC8FC \uC2E0"
+  - "\uC11C\uC724 \uC815"
+  - "\uC218\uBBF8 \uC870"
+  - "\uD604\uC8FC \uC1A1"
+  publisher: Korean Journal of Developmental Psychology
+  date: '2024-06-15'
+  link: https://doi.org/hcgg8n
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/desc.13591
+  title: "Understanding a Third\u2010Party Communicative Situation in Korean\u2010\
+    Learning Infants"
+  authors:
+  - Youjung Choi
+  - Hyuna Lee
+  - "Hyun\u2010joo Song"
+  - Yuyan Luo
+  publisher: Developmental Science
+  date: '2024-11-07'
+  link: https://doi.org/hcgg8p
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2025.38.1.52776.52776
+  title: Effect of questions on Korean children's exploratory behaviors
+  authors: []
+  publisher: The Korean Journal Development Psychology
+  date: '2025-03-15'
+  link: https://doi.org/hcgg8q
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/desc.13581
+  title: "Infants\u2019 Social Evaluation of Helpers and Hinderers: A Large\u2010\
+    Scale, Multi\u2010Lab, Coordinated Replication Study"
+  authors:
+  - Kelsey Lucca
+  - Francis Yuen
+  - Yiyi Wang
+  - "Nicol\xE1s Alessandroni"
+  - Olivia Allison
+  - Mario Alvarez
+  - Emma L. Axelsson
+  - Janina Baumer
+  - Heidi A. Baumgartner
+  - Julie Bertels
+  - Mitali Bhavsar
+  - "Krista Byers\u2010Heinlein"
+  - "Arthur Capelier\u2010Mourguy"
+  - Hitomi Chijiiwa
+  - "Chantelle S.\u2010S. Chin"
+  - Natalie Christner
+  - Laura K. Cirelli
+  - John Corbit
+  - Moritz M. Daum
+  - Tiffany Doan
+  - Michaela Dresel
+  - Anna Exner
+  - Wenxi Fei
+  - Samuel H. Forbes
+  - Laura Franchin
+  - Michael C. Frank
+  - Alessandra Geraci
+  - Michelle Giraud
+  - Megan E. Gornik
+  - Charlotte Grosse Wiesmann
+  - Tobias Grossmann
+  - Isabelle M. Hadley
+  - Naomi Havron
+  - Annette M. E. Henderson
+  - Emmy Higgs Matzner
+  - Bailey A. Immel
+  - Grzegorz Jankiewicz
+  - "Wiktoria J\u0119dryczka"
+  - Yasuhiro Kanakogi
+  - Jonathan F. Kominsky
+  - "Casey Lew\u2010Williams"
+  - Zoe Liberman
+  - Liquan Liu
+  - Yilin Liu
+  - Miriam T. Loeffler
+  - Alia Martin
+  - Julien Mayor
+  - Xianwei Meng
+  - Michal Misiak
+  - David Moreau
+  - Mira L. Nencheva
+  - "Linda S. O\xF1a"
+  - "Yenny Ot\xE1lora"
+  - Markus Paulus
+  - Bill Pepe
+  - Charisse B. Pickron
+  - Lindsey J. Powell
+  - Marina Proft
+  - Alyssa A. Quinn
+  - Hannes Rakoczy
+  - Peter J. Reschke
+  - "Ronit Roth\u2010Hanania"
+  - Katrin Rothmaler
+  - Karola Schlegelmilch
+  - "Laura Schlingloff\u2010Nemecz"
+  - Mark A. Schmuckler
+  - Tobias Schuwerk
+  - Sabine Seehagen
+  - "Hilal H. \u015Een"
+  - Munna R. Shainy
+  - Valentina Silvestri
+  - Melanie Soderstrom
+  - Jessica Sommerville
+  - "Hyun\u2010joo Song"
+  - Piotr Sorokowski
+  - Sandro E. Stutz
+  - Yanjie Su
+  - "Hernando Taborda\u2010Osorio"
+  - Alvin W. M. Tan
+  - Denis Tatone
+  - "Teresa Taylor\u2010Partridge"
+  - Chiu Kin Adrian Tsang
+  - Arkadiusz Urbanek
+  - Florina Uzefovsky
+  - Ingmar Visser
+  - Annie E. Wertz
+  - Madison Williams
+  - Kristina Wolsey
+  - "Terry Tin\u2010Yau Wong"
+  - Amanda M. Woodward
+  - Yang Wu
+  - Zhen Zeng
+  - Lucie Zimmer
+  - J. Kiley Hamlin
+  publisher: Developmental Science
+  date: '2024-11-26'
+  link: https://doi.org/g9zw66
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.35574/KJDP.2025.9.38.3.59
+  title: The Influence of Infant Curiosity and Caregiver Factors on Early Looking
+    Patterns
+  authors: []
+  publisher: The Korean Journal Development Psychology
+  date: '2025-09-15'
+  link: https://doi.org/hcgg8r
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnhum.2025.1663218
+  title: Brain structure correlates of foreign language learning experiences
+  authors:
+  - Xiaoqiao Wang
+  - Jae-Yoon Kim
+  - Jun-Ho Kim
+  - Yoonseok Choi
+  - Eun-Gyu Ha
+  - Dong-Hyun Kim
+  - Sunhae Sul
+  - Sujin Yang
+  - Hyun-joo Song
+  publisher: Frontiers in Human Neuroscience
+  date: '2025-09-18'
+  link: https://doi.org/hcgg8s
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jecp.2025.106375
+  title: US and Korean children prefer equality, but Korean children are more tolerant
+    of ingroup-favoring allocations
+  authors:
+  - Young-eun Lee
+  - Seul-kee Jung
+  - Hyun-joo Song
+  - Felix Warneken
+  publisher: Journal of Experimental Child Psychology
+  date: '2026-02-01'
+  link: https://doi.org/hcgg8t
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.infbeh.2025.102154
+  title: "Before first words: Infants\u2019 ability to map words to goals"
+  authors:
+  - Youjung Choi
+  - Eun Young Kim
+  - Hyuna Lee
+  - Hyun-joo Song
+  publisher: Infant Behavior and Development
+  date: '2025-12-01'
+  link: https://doi.org/hcgg8v
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12144-025-08538-9
+  title: "Contact with North Koreans can extend to South Koreans\u2019 support for\
+    \ refugees"
+  authors:
+  - Jung Yun Lee
+  - Chaemin Song
+  - Laura. K. Taylor
+  - Kyong-sun Jin
+  - Min Song
+  - Hyun-joo Song
+  publisher: Current Psychology
+  date: '2026-01-23'
+  link: https://doi.org/hcgg8w
+  tags:
+  - paper
+  plugin: sources.py
+  file: sources.yaml
