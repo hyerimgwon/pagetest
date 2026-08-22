@@ -596,3 +596,113 @@
 - id: doi:10.3389/fpsyg.2019.02508
   tags:
     - paper
+
+- id: doi:10.1111/bjdp.12331
+  tags:
+    - paper
+
+- id: doi:10.1037/pag0000577
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2021.3.34.1.47
+  tags:
+    - paper
+
+- id: doi:10.1016/j.jecp.2021.105235
+  tags:
+    - paper
+
+- title: "비일관적인 행위자에 대한 사회-도덕적 평가"
+  authors: 
+    - "차여명"
+    - "송현주"
+  publisher: "인간발달연구"
+  date: 2021-01-01
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10713148
+  tags:
+    - Paper
+
+- id: doi:10.1016/j.infbeh.2021.101621
+  tags:
+    - paper
+
+- id: doi:10.3389/fpsyg.2022.892382
+  tags:
+    - paper
+
+- title: "코로나19 팬데믹에서의 아동 적응: 부모의 정서 및 양육 방식을 중심으로"
+  authors: 
+    - "이정윤"
+    - "이우열"
+    - "송현주"
+    - "차민정"
+  publisher: "한국심리학회지: 발달"
+  date: 2022-10-01
+  link: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002876128
+  tags:
+    - Paper
+
+- id: doi:10.1080/15475441.2023.2165926
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2023.3.36.1.69
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2023.12.36.4.121
+  tags:
+    - paper
+
+- id: doi:10.3389/fpsyg.2023.1100537
+  tags:
+    - paper
+
+- id: doi:10.1371/journal.pone.0295642
+  tags:
+    - paper
+
+- id: doi:10.1017/S0305000922000472
+  tags:
+    - paper
+
+- id: doi:10.3389/fpsyg.2024.1289292
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2024.6.37.2.19
+  tags:
+    - paper
+
+- id: doi:10.1111/desc.13591
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2025.38.1.52776.52776
+  tags:
+    - paper
+
+- id: doi:10.1111/desc.13581
+  tags:
+    - paper
+
+- id: doi:10.35574/KJDP.2025.9.38.3.59
+  tags:
+    - paper
+
+- id: doi:10.3389/fnhum.2025.1663218
+  tags:
+    - paper
+
+- id: doi:10.1016/j.jecp.2025.106375
+  tags:
+    - paper
+
+- id: doi:10.1016/j.infbeh.2025.102154
+  tags:
+    - paper
+
+- id: doi:10.1007/s12144-025-08538-9
+  tags:
+    - paper
