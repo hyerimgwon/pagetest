@@ -1180,8 +1180,10 @@
   file: sources.yaml
 - id: doi:10.35574/KJDP.2025.38.1.52776.52776
   title: Effect of questions on Korean children's exploratory behaviors
-  authors: []
-  publisher: The Korean Journal Development Psychology
+  authors:
+  - Seoyoon Jung
+  - Hyun Joo Song
+  publisher: The Korean Journal of Developmental Psychology
   date: '2025-03-15'
   link: https://doi.org/hcgg8q
   tags:
