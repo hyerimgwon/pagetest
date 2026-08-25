@@ -14,13 +14,31 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: var(--shadow);
+  background: #f8fbff;
+  box-shadow: 0 1px 0 rgba(25, 130, 196, 0.12);
 
   @if $sticky {
     position: sticky !important;
     top: 0;
     z-index: 10 !important;
   }
+}
+
+header.background:before {
+  background-image:
+    radial-gradient(circle at 8% 18%, rgba(138, 201, 38, 0.15) 0 4.5rem, transparent 4.6rem),
+    radial-gradient(circle at 90% 12%, rgba(255, 202, 58, 0.16) 0 5.5rem, transparent 5.6rem),
+    radial-gradient(circle at 72% 92%, rgba(25, 130, 196, 0.1) 0 7rem, transparent 7.1rem),
+    linear-gradient(135deg, #fbfdff 0%, #f3f9ff 52%, #fbfcf7 100%) !important;
+  opacity: 1;
+}
+
+header[data-big].background:before {
+  background-image:
+    radial-gradient(circle at 15% 18%, rgba(138, 201, 38, 0.17) 0 7rem, transparent 7.1rem),
+    radial-gradient(circle at 84% 22%, rgba(255, 202, 58, 0.18) 0 8.5rem, transparent 8.6rem),
+    radial-gradient(circle at 76% 88%, rgba(25, 130, 196, 0.12) 0 10rem, transparent 10.1rem),
+    linear-gradient(135deg, #fbfdff 0%, #f3f9ff 52%, #fbfcf7 100%) !important;
 }
 
 header a {
@@ -60,11 +78,16 @@ header a {
 
 .title {
   font-size: var(--large);
+  font-family: "SchoolSafetyRoundedSmile", var(--title);
+  font-weight: 700;
 }
 
 .subtitle {
+  font-family: "SchoolSafetyRoundedSmile", var(--title);
+  font-weight: 400;
+  position: relative;
+  top: -4px;
   opacity: 0.65;
-  font-weight: var(--thin);
 }
 
 .nav-toggle {
@@ -113,6 +136,24 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
+  .logo {
+    height: 54px;
+  }
+
+  .title-text {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+  }
+
+  .title {
+    line-height: 1.28;
+  }
+
+  .subtitle {
+    top: 0;
+  }
+
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
