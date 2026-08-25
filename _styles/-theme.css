@@ -2,7 +2,8 @@
 [data-dark=false] {
   --primary: #1982C4;
   --secondary: #8AC926;
-  --text: #22201C;
+  --text: rgb(82, 78, 71);
+  --black: rgb(82, 78, 71);
   --background: #ffffff;
   --background-alt: #FFFBF0;
   --light-gray: #E6E2D8;
@@ -14,7 +15,8 @@
 [data-dark=true] {
   --primary: #1982C4;
   --secondary: #8AC926;
-  --text: #22201C;
+  --text: rgb(82, 78, 71);
+  --black: rgb(82, 78, 71);
   --background: #ffffff;
   --background-alt: #FFFBF0;
   --light-gray: #E6E2D8;
@@ -68,17 +70,18 @@ button[title*=dark i] {
 }
 header .title,
 header .subtitle {
-  color: #1982C4 !important;
+  color: rgba(25, 130, 196, 0.9) !important;
 }
 
 header .title {
-  font-family: "KCC-Ganpan", sans-serif !important;
+  font-family: "SchoolSafetyRoundedSmile", sans-serif !important;
   letter-spacing: 0.02em !important;
-  font-size: clamp(1rem, 5vw, 1.8rem) !important;
+  font-size: clamp(1rem, 1.765vw, 1.4075rem) !important;
 }
 
 header .subtitle {
-  font-size: clamp(1rem, 3vw, 1.3rem) !important;
+  font-family: "SchoolSafetyRoundedSmile", sans-serif !important;
+  font-size: clamp(1rem, 1.473vw, 1.175rem) !important;
 }
 
 header img {
@@ -204,6 +207,11 @@ header img {
   color: var(--blue);
   font-weight: 600;
   margin: 0.4rem 0 0 !important;
+}
+
+/* Member detail pages display the role in .member-role below the portrait. */
+.float .portrait-role {
+  display: none;
 }
 
 /* 홈페이지 전체 본문 폰트 크기 강제 키우기 */

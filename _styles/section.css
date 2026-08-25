@@ -32,4 +32,13 @@ main > section:nth-of-type(even) {
   background: var(--background-alt);
 }
 
+section#join-us {
+  background: #f8fbff;
+}
+
+section#join-us.background:before {
+  background-image: radial-gradient(circle at 8% 18%, rgba(138, 201, 38, 0.15) 0 4.5rem, transparent 4.6rem), radial-gradient(circle at 90% 12%, rgba(255, 202, 58, 0.16) 0 5.5rem, transparent 5.6rem), radial-gradient(circle at 72% 92%, rgba(25, 130, 196, 0.1) 0 7rem, transparent 7.1rem), linear-gradient(135deg, #fbfdff 0%, #f3f9ff 52%, #fbfcf7 100%) !important;
+  opacity: 1;
+}
+
 /*# sourceMappingURL=section.css.map */

@@ -6,7 +6,14 @@ footer {
   gap: 20px;
   padding: 40px;
   line-height: var(--spacing);
-  box-shadow: var(--shadow);
+  background: #f5f9f8;
+  border-top: 1px solid rgba(25, 130, 196, 0.12);
+  box-shadow: none;
+}
+
+footer.background:before {
+  background-image: radial-gradient(circle at 12% 100%, rgba(138, 201, 38, 0.12) 0 8rem, transparent 8.1rem), radial-gradient(circle at 88% 0%, rgba(25, 130, 196, 0.1) 0 9rem, transparent 9.1rem), linear-gradient(135deg, #f7fbfa 0%, #f1f7fb 100%) !important;
+  opacity: 1;
 }
 
 footer a {

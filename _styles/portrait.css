@@ -68,8 +68,15 @@
   font-weight: var(--semi-bold);
 }
 
+.portrait-role {
+  margin-top: 0.2rem;
+  color: var(--dark-gray);
+  font-size: 0.95em;
+}
+
 .portrait[data-style=tiny] .portrait-description,
-.portrait[data-style=tiny] .portrait-affiliation {
+.portrait[data-style=tiny] .portrait-affiliation,
+.portrait[data-style=tiny] .portrait-role {
   display: none;
 }
 
