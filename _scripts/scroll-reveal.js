@@ -26,6 +26,13 @@
         return;
       }
 
+      if (child.classList.contains("latest-news")) {
+        next(child.querySelector("h2"));
+        child.querySelectorAll(".latest-news-card").forEach((card) => next(card, "image"));
+        next(child.querySelector(".latest-news-more"));
+        return;
+      }
+
       if (child.classList.contains("cols") || child.classList.contains("grid")) {
         [...child.children].forEach((item) => next(item, "image"));
         return;

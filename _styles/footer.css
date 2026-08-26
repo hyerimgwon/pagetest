@@ -28,4 +28,8 @@ footer .icon {
   font-size: var(--xl);
 }
 
+.footer-address {
+  font-size: 1em;
+}
+
 /*# sourceMappingURL=footer.css.map */
