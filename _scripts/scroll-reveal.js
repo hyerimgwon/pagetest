@@ -33,6 +33,11 @@
         return;
       }
 
+      if (child.classList.contains("portrait-wrapper")) {
+        next(child.querySelector(".portrait"), "image");
+        return;
+      }
+
       if (child.classList.contains("cols") || child.classList.contains("grid")) {
         [...child.children].forEach((item) => next(item, "image"));
         return;
