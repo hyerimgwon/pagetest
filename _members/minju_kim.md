@@ -1,7 +1,7 @@
 ---
 name: 김민주 (Minju Kim)
 image: images/minjukim.jpg
-role: Master Student
+role: Alumni
 affiliation: Yonsei University
 links:
   email: minjuk0126@yonsei.ac.kr
