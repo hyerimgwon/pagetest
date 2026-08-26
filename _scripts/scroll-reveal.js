@@ -49,7 +49,13 @@
   };
 
   const initialise = () => {
-    if (reduceMotion.matches || !("IntersectionObserver" in window)) return;
+    if (
+      reduceMotion.matches ||
+      document.body.dataset.layout === "post" ||
+      !("IntersectionObserver" in window)
+    ) {
+      return;
+    }
 
     document.querySelectorAll("main > section").forEach(revealSection);
 

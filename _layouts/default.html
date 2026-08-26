@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include head.html %}
-  <body>
+  <body data-layout="{{ page.layout | default: 'default' }}">
     {% include header.html %}
     <main>
       {% include content.html content=content %}
