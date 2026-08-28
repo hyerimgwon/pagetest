@@ -3,22 +3,15 @@
 <article class="alumni-card">
   <h3 class="alumni-name">{{ alumni.name }}</h3>
 
-  <dl class="alumni-details">
-    <div>
-      <dt>졸업학기(과정)</dt>
-      <dd>{{ alumni.graduation }}</dd>
-    </div>
-    <div>
-      <dt>이메일</dt>
-      <dd>
-        {% if alumni.links.email %}
-          <a href="mailto:{{ alumni.links.email }}">{{ alumni.links.email }}</a>
-        {% endif %}
-      </dd>
-    </div>
-    <div>
-      <dt>현황</dt>
-      <dd>{{ alumni.status }}</dd>
-    </div>
-  </dl>
+  <div class="alumni-details">
+    {% if alumni.graduation %}
+      <p>{{ alumni.graduation }}</p>
+    {% endif %}
+    {% if alumni.links.email %}
+      <p><a href="mailto:{{ alumni.links.email }}">{{ alumni.links.email }}</a></p>
+    {% endif %}
+    {% if alumni.status %}
+      <p>{{ alumni.status }}</p>
+    {% endif %}
+  </div>
 </article>

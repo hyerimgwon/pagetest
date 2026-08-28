@@ -33,7 +33,7 @@ nav:
 </div>
 
 <div class="alumni-more">
-  <h3>And more...</h3>
+  <h3>Additional alumni</h3>
   {% if site.data.alumni.more.size > 0 %}
     <p class="alumni-more-names">{{ site.data.alumni.more | join: ", " }}</p>
   {% endif %}
