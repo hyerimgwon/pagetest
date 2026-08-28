@@ -1,6 +1,6 @@
 ---
 name: 권혜림 (Hyerim Gwon)
-image: images/hyerimgwon.jpeg
+image: images/hyerimgwon.jpg
 role: Master Student
 affiliation: Yonsei University
 links:
