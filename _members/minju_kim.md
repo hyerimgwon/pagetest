@@ -3,6 +3,8 @@ name: 김민주 (Minju Kim)
 image: images/minjukim.jpg
 role: Alumni
 affiliation: Yonsei University
+graduation: 2026년 8월 (석사)
+status:
 links:
   email: minjuk0126@yonsei.ac.kr
 aliases:

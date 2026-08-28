@@ -38,6 +38,11 @@
         return;
       }
 
+      if (child.classList.contains("alumni-grid")) {
+        [...child.children].forEach((card) => next(card, "image"));
+        return;
+      }
+
       if (child.classList.contains("cols") || child.classList.contains("grid")) {
         [...child.children].forEach((item) => next(item, "image"));
         return;

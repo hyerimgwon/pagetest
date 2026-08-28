@@ -25,7 +25,19 @@ nav:
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'Alumni'" %}
+{% assign alumni_members = site.members | where: "role", "Alumni" | sort: "order" %}
+<div class="alumni-grid">
+  {% for alumni in alumni_members %}
+    {% include alumni-card.html member=alumni %}
+  {% endfor %}
+</div>
+
+<div class="alumni-more">
+  <h3>And more...</h3>
+  {% if site.data.alumni.more.size > 0 %}
+    <p class="alumni-more-names">{{ site.data.alumni.more | join: ", " }}</p>
+  {% endif %}
+</div>
 
 {% include section.html background="images/background.jpg" dark=true %}
 
