@@ -13,7 +13,7 @@ order: 6
 ---
 
 #### Research Interest
-영아, 아동의 인지 발달 및 언어 발달
+Infant cognitive development, Language development, Questioning
 
 #### About me
-아동을 비롯하여 영아기의 인지 발달과 언어 발달을 탐구합니다. 특히 언어 습득에 관심이 있습니다.
+I am interested in how infants acquire and produce language. In particular, I study the development of infants’ ability to connect sentence structures with their communicative functions. Outside of research, I enjoy cleaning. :)
