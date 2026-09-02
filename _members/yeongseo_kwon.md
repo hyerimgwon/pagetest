@@ -13,7 +13,9 @@ order: 5
 ---
 
 #### Research Interest
-아동의 인지 및 언어 발달, 탐색 행동
+Cognitive Development, Social Cognition, Exploratory Behavior
 
 #### About me
-안녕하세요, 원필 짱짱팬 영서예요!! 저는 필끼를 너무너무 사랑해서 필끼 10마리 보유 중이구요, 최근에 좋은 사람이 곁에 들어와 행복하답니다. 전 복받은 사람이에요 ㅠㅠ
+I am interested in children’s cognitive development, especially in how children learn about the world around them. 
+Recently, I have been interested in how children understand their own thoughts and feelings in relation to others' perspectives.
+Outside of research, I enjoy going to concerts and musicals.
