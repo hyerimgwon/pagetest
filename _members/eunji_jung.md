@@ -7,5 +7,8 @@ links:
   email: 
 ---
 
+#### Affiliation
+성신여자대학교 심리학과 4학년
+
 #### Research Interest
 언어발달, 도덕성 발달
