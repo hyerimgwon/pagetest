@@ -1,6 +1,6 @@
 ---
 name: 주하은 (Haeun Joo)
-image: images/haeunjoo.jpeg
+image: images/haeunjoo.png
 role: RA
 affiliation: 영어영문학, 심리학 졸업
 links:
