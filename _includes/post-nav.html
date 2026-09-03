@@ -2,16 +2,18 @@
   <span>
     {% if include.post.previous %}
       {% include icon.html icon="fa-solid fa-angle-left" %} Previous post<br>
+      {% assign previous_title = include.post.previous.title | truncate: 13, "..." %}
       <a href="{{ include.post.previous.url | relative_url }}">
-        {{ include.post.previous.title }}
+        {{ previous_title }}
       </a>
     {% endif %}
   </span>
   <span>
     {% if include.post.next %}
       Next post {% include icon.html icon="fa-solid fa-angle-right" %}<br>
+      {% assign next_title = include.post.next.title | truncate: 13, "..." %}
       <a href="{{ include.post.next.url | relative_url }}">
-        {{ include.post.next.title }}
+        {{ next_title }}
       </a>
     {% endif %}
   </span>
