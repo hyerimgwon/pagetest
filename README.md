@@ -5,6 +5,6 @@
 
   # 연구실 홈페이지 테스트용
 
-  Visit **[hyerimgwon.github.io/pagetest](https://hyerimgwon.github.io/pagetest)** 🚀
+  Visit **[yonseichild.github.io/homepage](https://yonseichild.github.io/homepage)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
