@@ -15,7 +15,7 @@
     transform: translate3d(-1.125rem, 0, 0) scale(0.985);
   }
 
-  .feature[data-flip] .feature-image[data-scroll-reveal] {
+  .feature[data-flip] .feature-image[data-scroll-reveal]:not(.is-visible) {
     transform: translate3d(1.125rem, 0, 0) scale(0.985);
   }
 
